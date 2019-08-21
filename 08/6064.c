@@ -25,7 +25,7 @@ int main(){
 	return 0;
 }
 
-// 시간 초과 
+// 아래 코드는 시간 초과 코드 
 //int main(){
 //	int T, i, year, tmpx, tmpy;
 //	scanf("%d", &T);
