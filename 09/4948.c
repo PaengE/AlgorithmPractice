@@ -32,7 +32,6 @@ int main(){
 		}
 		printf("%d\n", count);
 		free(arr);
-
 	}
 	return 0;
 }
