@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4b66dce-40a0-42bc-9e93-ddfcfd21baaa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1guAz2P2dyhC12tcT5XBsvdItls" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="BOJ123456789" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ123456789" />
+      <module name="coding_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ15649" />
+      <module name="coding_java" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.BOJ123456789" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BOJ123456789" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\82102\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4b66dce-40a0-42bc-9e93-ddfcfd21baaa" name="Default Changelist" comment="" />
+      <created>1598954364743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598954364743</updated>
+      <workItem from="1598954366643" duration="3564000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="176" y="0" key="#Project_Structure" timestamp="1598954449809">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state x="176" y="0" key="#Project_Structure/64.0.1216.720@64.0.1216.720" timestamp="1598954449809" />
+    <state width="1140" height="161" key="GridCell.Tab.0.bottom" timestamp="1598972028712">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state width="1140" height="161" key="GridCell.Tab.0.bottom/64.0.1216.720@64.0.1216.720" timestamp="1598972028712" />
+    <state width="1140" height="161" key="GridCell.Tab.0.center" timestamp="1598972028711">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state width="1140" height="161" key="GridCell.Tab.0.center/64.0.1216.720@64.0.1216.720" timestamp="1598972028711" />
+    <state width="1140" height="161" key="GridCell.Tab.0.left" timestamp="1598972028711">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state width="1140" height="161" key="GridCell.Tab.0.left/64.0.1216.720@64.0.1216.720" timestamp="1598972028711" />
+    <state width="1140" height="161" key="GridCell.Tab.0.right" timestamp="1598972028712">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state width="1140" height="161" key="GridCell.Tab.0.right/64.0.1216.720@64.0.1216.720" timestamp="1598972028712" />
+    <state x="238" y="0" key="SettingsEditor" timestamp="1598954713023">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state x="238" y="0" key="SettingsEditor/64.0.1216.720@64.0.1216.720" timestamp="1598954713023" />
+    <state x="359" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1598957874643">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state x="359" y="41" width="672" height="678" key="search.everywhere.popup/64.0.1216.720@64.0.1216.720" timestamp="1598957874643" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/coding_java$Main.ic" NAME="Main Coverage Results" MODIFIED="1598954512887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
