@@ -13,13 +13,18 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:java" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4b66dce-40a0-42bc-9e93-ddfcfd21baaa" name="Default Changelist" comment="" />
+    <list default="true" id="a4b66dce-40a0-42bc-9e93-ddfcfd21baaa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ15649.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ15649.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ15649.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ15649.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,17 +47,40 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.BOJ15652">
     <configuration name="BOJ123456789" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ123456789" />
+      <module name="coding_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ15650" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ15650" />
+      <module name="coding_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ15651" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ15651" />
+      <module name="coding_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ15652" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ15652" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,13 +96,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.BOJ123456789" />
+      <item itemvalue="Application.BOJ15650" />
+      <item itemvalue="Application.BOJ15651" />
+      <item itemvalue="Application.BOJ15652" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ15652" />
+        <item itemvalue="Application.BOJ15651" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BOJ15650" />
         <item itemvalue="Application.BOJ123456789" />
       </list>
     </recent_temporary>
@@ -92,6 +139,8 @@
       <updated>1598954364743</updated>
       <workItem from="1598954366643" duration="3564000" />
       <workItem from="1598972056781" duration="83000" />
+      <workItem from="1598974016509" duration="6632000" />
+      <workItem from="1599026494060" duration="6744000" />
     </task>
     <servers />
   </component>
@@ -108,36 +157,55 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="176" y="0" key="#Project_Structure" timestamp="1598954449809">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
     <state x="176" y="0" key="#Project_Structure/64.0.1216.720@64.0.1216.720" timestamp="1598954449809" />
-    <state width="1140" height="161" key="GridCell.Tab.0.bottom" timestamp="1598972028712">
+    <state width="1140" height="161" key="GridCell.Tab.0.bottom" timestamp="1599039485520">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="1140" height="161" key="GridCell.Tab.0.bottom/64.0.1216.720@64.0.1216.720" timestamp="1598972028712" />
-    <state width="1140" height="161" key="GridCell.Tab.0.center" timestamp="1598972028711">
+    <state width="1140" height="161" key="GridCell.Tab.0.bottom/64.0.1216.720@64.0.1216.720" timestamp="1599039485520" />
+    <state width="1140" height="161" key="GridCell.Tab.0.center" timestamp="1599039485520">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="1140" height="161" key="GridCell.Tab.0.center/64.0.1216.720@64.0.1216.720" timestamp="1598972028711" />
-    <state width="1140" height="161" key="GridCell.Tab.0.left" timestamp="1598972028711">
+    <state width="1140" height="161" key="GridCell.Tab.0.center/64.0.1216.720@64.0.1216.720" timestamp="1599039485520" />
+    <state width="1140" height="161" key="GridCell.Tab.0.left" timestamp="1599039485520">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="1140" height="161" key="GridCell.Tab.0.left/64.0.1216.720@64.0.1216.720" timestamp="1598972028711" />
-    <state width="1140" height="161" key="GridCell.Tab.0.right" timestamp="1598972028712">
+    <state width="1140" height="161" key="GridCell.Tab.0.left/64.0.1216.720@64.0.1216.720" timestamp="1599039485520" />
+    <state width="1140" height="161" key="GridCell.Tab.0.right" timestamp="1599039485520">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="1140" height="161" key="GridCell.Tab.0.right/64.0.1216.720@64.0.1216.720" timestamp="1598972028712" />
+    <state width="1140" height="161" key="GridCell.Tab.0.right/64.0.1216.720@64.0.1216.720" timestamp="1599039485520" />
     <state x="238" y="0" key="SettingsEditor" timestamp="1598954713023">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
     <state x="238" y="0" key="SettingsEditor/64.0.1216.720@64.0.1216.720" timestamp="1598954713023" />
+    <state x="317" y="115" width="963" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598977537415">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state x="317" y="115" width="963" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/64.0.1216.720@64.0.1216.720" timestamp="1598977537415" />
+    <state x="278" y="0" width="598" height="720" key="find.popup" timestamp="1598974518750">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state x="278" y="0" width="598" height="720" key="find.popup/64.0.1216.720@64.0.1216.720" timestamp="1598974518750" />
     <state x="359" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1598957874643">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
     <state x="359" y="41" width="672" height="678" key="search.everywhere.popup/64.0.1216.720@64.0.1216.720" timestamp="1598957874643" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/coding_java$Main.ic" NAME="Main Coverage Results" MODIFIED="1598954512887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
