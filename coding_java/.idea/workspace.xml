@@ -54,16 +54,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="settings.editor.selected.configurable" value="Console" />
   </component>
-  <component name="RunManager" selected="Application.BOJ9663">
-    <configuration name="BOJ15650" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ15650" />
-      <module name="coding_java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ2580">
     <configuration name="BOJ15651" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ15651" />
       <module name="coding_java" />
@@ -73,6 +66,13 @@
     </configuration>
     <configuration name="BOJ15652" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ15652" />
+      <module name="coding_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ2580" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ2580" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,33 +95,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.BOJ15650" />
       <item itemvalue="Application.BOJ15651" />
       <item itemvalue="Application.BOJ15652" />
       <item itemvalue="Application.BOJ9663" />
+      <item itemvalue="Application.BOJ2580" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ2580" />
         <item itemvalue="Application.BOJ9663" />
         <item itemvalue="Application.BOJ15652" />
         <item itemvalue="Application.BOJ15651" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BOJ15650" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +137,8 @@
       <workItem from="1598954366643" duration="3564000" />
       <workItem from="1598972056781" duration="83000" />
       <workItem from="1598974016509" duration="6632000" />
-      <workItem from="1599026494060" duration="14503000" />
+      <workItem from="1599026494060" duration="15319000" />
+      <workItem from="1599113527070" duration="19511000" />
     </task>
     <servers />
   </component>
@@ -163,26 +162,26 @@
       <screen x="64" y="0" width="1216" height="720" />
     </state>
     <state x="176" y="0" key="#Project_Structure/64.0.1216.720@64.0.1216.720" timestamp="1598954449809" />
-    <state width="1140" height="161" key="GridCell.Tab.0.bottom" timestamp="1599054029646">
+    <state width="1140" height="185" key="GridCell.Tab.0.bottom" timestamp="1599134429284">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="1140" height="161" key="GridCell.Tab.0.bottom/64.0.1216.720@64.0.1216.720" timestamp="1599054029646" />
-    <state width="1140" height="161" key="GridCell.Tab.0.center" timestamp="1599054029646">
+    <state width="1140" height="185" key="GridCell.Tab.0.bottom/64.0.1216.720@64.0.1216.720" timestamp="1599134429284" />
+    <state width="1140" height="185" key="GridCell.Tab.0.center" timestamp="1599134429283">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="1140" height="161" key="GridCell.Tab.0.center/64.0.1216.720@64.0.1216.720" timestamp="1599054029646" />
-    <state width="1140" height="161" key="GridCell.Tab.0.left" timestamp="1599054029646">
+    <state width="1140" height="185" key="GridCell.Tab.0.center/64.0.1216.720@64.0.1216.720" timestamp="1599134429283" />
+    <state width="1140" height="185" key="GridCell.Tab.0.left" timestamp="1599134429283">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="1140" height="161" key="GridCell.Tab.0.left/64.0.1216.720@64.0.1216.720" timestamp="1599054029646" />
-    <state width="1140" height="161" key="GridCell.Tab.0.right" timestamp="1599054029646">
+    <state width="1140" height="185" key="GridCell.Tab.0.left/64.0.1216.720@64.0.1216.720" timestamp="1599134429283" />
+    <state width="1140" height="185" key="GridCell.Tab.0.right" timestamp="1599134429283">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="1140" height="161" key="GridCell.Tab.0.right/64.0.1216.720@64.0.1216.720" timestamp="1599054029646" />
-    <state x="238" y="0" key="SettingsEditor" timestamp="1598954713023">
+    <state width="1140" height="185" key="GridCell.Tab.0.right/64.0.1216.720@64.0.1216.720" timestamp="1599134429283" />
+    <state x="238" y="0" key="SettingsEditor" timestamp="1599133833372">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state x="238" y="0" key="SettingsEditor/64.0.1216.720@64.0.1216.720" timestamp="1598954713023" />
+    <state x="238" y="0" key="SettingsEditor/64.0.1216.720@64.0.1216.720" timestamp="1599133833372" />
     <state x="317" y="115" width="963" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598977537415">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
