@@ -64,5 +64,7 @@ public class BOJ14888 {
         cal(arr[0], 0);
 
         System.out.printf("%d\n%d", max, min);
+
+        br.close();
     }
 }

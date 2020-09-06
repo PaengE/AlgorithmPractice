@@ -92,6 +92,7 @@ public class BOJ2580 {
 
         sudoku(0);
 
+        br.close();
 
     }
 }
