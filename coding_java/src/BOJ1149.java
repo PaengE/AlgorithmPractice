@@ -1,3 +1,8 @@
+/*
+    no.1149 : RGB거리
+    hint : 마지막 집을 R, G, B로 칠할 때의 3가지 경우를 구한 후 그 중 최솟값을 선택
+ */
+
 import java.io.*;
 import java.util.StringTokenizer;
 

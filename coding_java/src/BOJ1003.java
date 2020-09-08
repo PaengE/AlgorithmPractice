@@ -1,8 +1,9 @@
-import java.io.*;
-
 /*
     no.1003 : fibonacci function
+    hint : 규칙 찾기
  */
+
+import java.io.*;
 
 public class BOJ1003 {
     static BufferedReader br;

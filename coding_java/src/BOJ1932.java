@@ -1,3 +1,9 @@
+/*
+    no.1932 : 정수 삼각형
+    hint : 삼각형의 밑 변의 n개 숫자 중 하나를 고를 때의 경로 최대값을 구함
+        왼쪽 변이나 오른쪽 변에 있는 숫자는 부모가 하나.
+ */
+
 import java.io.*;
 import java.util.Arrays;
 import java.util.StringTokenizer;
@@ -5,7 +11,6 @@ import java.util.StringTokenizer;
 public class BOJ1932 {
     static int[][] arr, sumArr;
     static int[] res;
-    static int max;
 
     public static void dp(int n){
         sumArr[0][0] = arr[0][0];

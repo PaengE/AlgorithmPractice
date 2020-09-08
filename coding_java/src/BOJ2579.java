@@ -1,11 +1,11 @@
-import java.io.*;
-
 /*
     no.2579 : 계단 오르기
     hint : 마지막 계단을 밟을 때
         1. 마지막 계단 전 계단을 밟을 경우
         2. 마지막 계단 전 계단을 밟지 않을 경우
  */
+
+import java.io.*;
 
 public class BOJ2579 {
     static int[] arr, res;

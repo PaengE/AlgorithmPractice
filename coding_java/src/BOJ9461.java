@@ -1,8 +1,10 @@
-import java.io.*;
-
 /*
     no.9461 : 파도반 수열
+    hint : 점화식 arr[n] = arr[n-1] + a[n-5]
+        arr[n] = arr[n-2] + arr[n-3] 도 가능
  */
+
+import java.io.*;
 
 public class BOJ9461 {
     static long[] arr;

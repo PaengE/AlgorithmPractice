@@ -1,10 +1,13 @@
+/*
+    no.1904 : 01 tile
+    hint : 타일이 00으로 시작할 경우와 1로 시작할 경우를 나눠서 생각
+        -> 00로 시작 : n-2 길이의 가짓 수와 동일
+        -> 1로 시작 : n-1 길이의 가짓 수와 동일
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
-/*
-    no.1904 : 01 tile
- */
 
 public class BOJ1904 {
     static int arr[];

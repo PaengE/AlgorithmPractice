@@ -1,9 +1,9 @@
-import java.io.*;
-
 /*
     no.1463 : 1로 만들기
-    hint : -1, /2, /3 중 작은걸 선택
+    hint : n을 -1, /2, /3 한 것 중 연산 횟수가 작은걸 선택
  */
+
+import java.io.*;
 
 public class BOJ1463 {
     static int n;

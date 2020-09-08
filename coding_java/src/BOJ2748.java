@@ -1,8 +1,8 @@
-import java.util.Scanner;
-
 /*
     no.2748 : fibonacci (2)
+    hint : 재귀 사용 X
  */
+import java.util.Scanner;
 
 public class BOJ2748 {
     public static void main(String[] args) {
