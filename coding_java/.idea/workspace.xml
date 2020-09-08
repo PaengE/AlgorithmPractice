@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4b66dce-40a0-42bc-9e93-ddfcfd21baaa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ1003.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ10844.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ1149.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ1463.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ14888.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ14889.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ15650.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ15651.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ15652.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ1904.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ1932.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ2156.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ2579.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ2580.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ2748.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ9461.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ9663.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ10844.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1149.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1463.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ14888.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ14889.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ15650.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ15651.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ15652.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1904.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1932.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ2156.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ2579.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ2580.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ2748.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ9461.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ9663.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding_python/10814.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding_python/11650.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding_python/11651.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding_python/1181.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding_python/1427.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coding_python/2108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/GROUP BY.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/IS NULL.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/JOIN.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/SELECT.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/STRING, DATE.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmers/SUM, MAX, MIN.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ15649.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ15649.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ15649.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ15649.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1guAz2P2dyhC12tcT5XBsvdItls" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Console" />
+  </component>
+  <component name="RunManager" selected="Application.BOJ2156">
+    <configuration name="BOJ10844" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ10844" />
+      <module name="coding_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ1463" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ1463" />
+      <module name="coding_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ1932" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ1932" />
+      <module name="coding_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ2156" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ2156" />
+      <module name="coding_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ2579" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ2579" />
+      <module name="coding_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BOJ1932" />
+      <item itemvalue="Application.BOJ2579" />
+      <item itemvalue="Application.BOJ1463" />
+      <item itemvalue="Application.BOJ10844" />
+      <item itemvalue="Application.BOJ2156" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BOJ2156" />
+        <item itemvalue="Application.BOJ10844" />
+        <item itemvalue="Application.BOJ1463" />
+        <item itemvalue="Application.BOJ2579" />
+        <item itemvalue="Application.BOJ1932" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\82102\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4b66dce-40a0-42bc-9e93-ddfcfd21baaa" name="Default Changelist" comment="" />
+      <created>1598954364743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598954364743</updated>
+      <workItem from="1598954366643" duration="3564000" />
+      <workItem from="1598972056781" duration="83000" />
+      <workItem from="1598974016509" duration="6632000" />
+      <workItem from="1599026494060" duration="15319000" />
+      <workItem from="1599113527070" duration="21316000" />
+      <workItem from="1599203938690" duration="75162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="176" y="0" key="#Project_Structure" timestamp="1599379765985">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state x="176" y="0" key="#Project_Structure/64.0.1216.720@64.0.1216.720" timestamp="1599379765985" />
+    <state width="1140" height="187" key="GridCell.Tab.0.bottom" timestamp="1599581226021">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state width="1140" height="187" key="GridCell.Tab.0.bottom/64.0.1216.720@64.0.1216.720" timestamp="1599581226021" />
+    <state width="1140" height="187" key="GridCell.Tab.0.center" timestamp="1599581226021">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state width="1140" height="187" key="GridCell.Tab.0.center/64.0.1216.720@64.0.1216.720" timestamp="1599581226021" />
+    <state width="1140" height="187" key="GridCell.Tab.0.left" timestamp="1599581226021">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state width="1140" height="187" key="GridCell.Tab.0.left/64.0.1216.720@64.0.1216.720" timestamp="1599581226021" />
+    <state width="1140" height="187" key="GridCell.Tab.0.right" timestamp="1599581226021">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state width="1140" height="187" key="GridCell.Tab.0.right/64.0.1216.720@64.0.1216.720" timestamp="1599581226021" />
+    <state x="238" y="0" key="SettingsEditor" timestamp="1599133833372">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state x="238" y="0" key="SettingsEditor/64.0.1216.720@64.0.1216.720" timestamp="1599133833372" />
+    <state x="317" y="115" width="963" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599382453862">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state x="317" y="115" width="963" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/64.0.1216.720@64.0.1216.720" timestamp="1599382453862" />
+    <state x="278" y="0" width="598" height="720" key="find.popup" timestamp="1598974518750">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state x="278" y="0" width="598" height="720" key="find.popup/64.0.1216.720@64.0.1216.720" timestamp="1598974518750" />
+    <state x="466" y="181" key="run.anything.popup" timestamp="1599314074453">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state x="466" y="181" key="run.anything.popup/64.0.1216.720@64.0.1216.720" timestamp="1599314074453" />
+    <state x="359" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1599570304416">
+      <screen x="64" y="0" width="1216" height="720" />
+    </state>
+    <state x="359" y="41" width="672" height="678" key="search.everywhere.popup/64.0.1216.720@64.0.1216.720" timestamp="1599570304416" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/coding_java$Main.ic" NAME="Main Coverage Results" MODIFIED="1598954512887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
