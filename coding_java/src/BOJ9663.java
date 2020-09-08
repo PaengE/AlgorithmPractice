@@ -1,5 +1,7 @@
 /*
     no.9663: N-Queen
+    hint: 위에서부터 퀸을 놓아보고 놓을 수 있는지(일직선 상에 있거나 대각선에 있거나) 검사 후
+        놓을 수 있으면 다음 줄로, 놓을 수 없으면 backtracking
  */
 import java.io.*;
 
@@ -7,15 +9,9 @@ public class BOJ9663 {
     static int n, count = 0;
     static int[] arr;
     static BufferedReader br;
-//    static BufferedWriter bw;
 
     static void backtracking(int lv) throws IOException{
         if (lv == n){
-//            for (int i = 0; i < n; i++){
-//                bw.write(arr[i] + " ");
-//            }
-//            bw.write("\n");
-//            bw.flush();
             count++;
         } else {
             for(int i = 0; i < n; i++){
@@ -37,16 +33,13 @@ public class BOJ9663 {
 
     public static void main(String[] args) throws IOException {
         br = new BufferedReader(new InputStreamReader(System.in));
-//        bw = new BufferedWriter(new OutputStreamWriter(System.out));
         String s = br.readLine();
         n = Integer.parseInt(s);
         arr = new int[n];
 
         backtracking(0);
 
-        br.close();
-//        bw.close();
-
         System.out.println(count);
+        br.close();
     }
 }

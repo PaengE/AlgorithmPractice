@@ -1,11 +1,15 @@
+/*
+    no.14889 : 스타트와 링크
+    hint: (12, 34)와 (34, 12)는 같음(중복).
+        어느 한 사람이 포함된 팀과 포함되지 않은 팀의 합 이 전체 팀 개수
+        -> 예를 들어, 1이 포함된 팀 vs 1이 포함되지 않은팀 으로 나눌수있음
+        -> 1이 포함된 팀을 구하면 자동적으로 나머지 1이 포함되지 않은 팀이 구해짐
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-
-/*
-    no.14889 : 스타트와 링크
- */
 
 public class BOJ14889 {
     static BufferedReader br;

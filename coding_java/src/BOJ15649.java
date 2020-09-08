@@ -1,6 +1,8 @@
 /*
     no.15649 : N and M(1)
+    hint : 사용한 것은 true, 사용이 끝난 것은 false
  */
+
 import java.util.Scanner;
 
 public class BOJ15649 {

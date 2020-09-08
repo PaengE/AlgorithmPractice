@@ -1,11 +1,12 @@
+/*
+    no.14888 : 연산자 끼워넣기
+    hint : 사용한 연산자는 true, 사용이 끝난 연산자는 false로 하여 backtracking
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-
-/*
-    no.14888 : 연산자 끼워넣기
- */
 
 public class BOJ14888 {
     static int n, min, max;

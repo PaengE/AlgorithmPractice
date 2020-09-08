@@ -1,6 +1,8 @@
 /*
     no.15650 : N and M(2)
+    hint : 사용한 것은 true, 사용이 끝난 것은 false, 이전 값보다 큰 값들만 사용
  */
+
 import java.util.Scanner;
 
 public class BOJ15650 {

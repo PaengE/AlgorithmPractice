@@ -1,6 +1,8 @@
 /*
     no.15652 : N and M(4)
+    hint: 가능한 모든 수 중에서 이전 값보다 큰 값들만 사용
  */
+
 import java.io.*;
 import java.util.StringTokenizer;
 

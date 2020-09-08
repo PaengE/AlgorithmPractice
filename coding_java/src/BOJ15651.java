@@ -1,6 +1,8 @@
 /*
     no.15651 : N and M(3)
+    hint : 가능한 모든 수 backtracking
  */
+
 import java.io.*;
 import java.util.StringTokenizer;
 

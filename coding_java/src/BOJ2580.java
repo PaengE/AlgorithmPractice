@@ -1,10 +1,13 @@
+/*
+    no.2580 : Sudoku
+    hint : 스도쿠의 빈 칸이 존재하면, 그 인덱스를 배열에 저장.
+        그 자리에 숫자를 놓아보고 놓을 수 있는지(가로, 세로, 3x3) 검사 후
+        놓을 수 있으면 다음 빈 칸 검사, 놓을 수 없으면 backtracking
+ */
+
 import java.io.*;
 import java.util.Arrays;
 import java.util.StringTokenizer;
-
-/*
-    no.2580 : Sudoku
- */
 
 public class BOJ2580 {
     static BufferedReader br;
@@ -15,8 +18,6 @@ public class BOJ2580 {
 
     static void sudoku(int i) throws IOException{
         int idx = arr_0[i];
-//        System.out.println("idx = " + idx);
-//        System.out.println("i = " + i);
 
         if (idx == -1){
             for(int a = 0; a < 81; a++){
@@ -32,7 +33,6 @@ public class BOJ2580 {
         } else {
             for (int k = 1; k < 10; k++){   // put num in until it can be possible
                 arr[idx] = k;
-//                System.out.println("k = " + k);
 
                 if(isPossible(idx)){
                     sudoku(i + 1);
