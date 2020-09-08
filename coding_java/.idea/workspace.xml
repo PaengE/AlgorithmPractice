@@ -56,7 +56,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Console" />
   </component>
-  <component name="RunManager" selected="Application.BOJ1932">
+  <component name="RunManager" selected="Application.BOJ1463">
     <configuration name="BOJ1149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ1149" />
       <module name="coding_java" />
@@ -64,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ1904" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ1904" />
+    <configuration name="BOJ1463" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ1463" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,15 +78,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ2580" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ2580" />
+    <configuration name="BOJ2579" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ2579" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ9461" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ9461" />
+    <configuration name="BOJ2580" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ2580" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,19 +106,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BOJ1904" />
-      <item itemvalue="Application.BOJ9461" />
       <item itemvalue="Application.BOJ1149" />
       <item itemvalue="Application.BOJ2580" />
       <item itemvalue="Application.BOJ1932" />
+      <item itemvalue="Application.BOJ2579" />
+      <item itemvalue="Application.BOJ1463" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ1463" />
+        <item itemvalue="Application.BOJ2579" />
         <item itemvalue="Application.BOJ1932" />
         <item itemvalue="Application.BOJ1149" />
         <item itemvalue="Application.BOJ2580" />
-        <item itemvalue="Application.BOJ1904" />
-        <item itemvalue="Application.BOJ9461" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +138,7 @@
       <workItem from="1598974016509" duration="6632000" />
       <workItem from="1599026494060" duration="15319000" />
       <workItem from="1599113527070" duration="21316000" />
-      <workItem from="1599203938690" duration="49760000" />
+      <workItem from="1599203938690" duration="63008000" />
     </task>
     <servers />
   </component>
@@ -162,22 +162,22 @@
       <screen x="64" y="0" width="1216" height="720" />
     </state>
     <state x="176" y="0" key="#Project_Structure/64.0.1216.720@64.0.1216.720" timestamp="1599379765985" />
-    <state width="1140" height="187" key="GridCell.Tab.0.bottom" timestamp="1599393912935">
+    <state width="1140" height="187" key="GridCell.Tab.0.bottom" timestamp="1599564228325">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="1140" height="187" key="GridCell.Tab.0.bottom/64.0.1216.720@64.0.1216.720" timestamp="1599393912935" />
-    <state width="1140" height="187" key="GridCell.Tab.0.center" timestamp="1599393912934">
+    <state width="1140" height="187" key="GridCell.Tab.0.bottom/64.0.1216.720@64.0.1216.720" timestamp="1599564228325" />
+    <state width="1140" height="187" key="GridCell.Tab.0.center" timestamp="1599564228325">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="1140" height="187" key="GridCell.Tab.0.center/64.0.1216.720@64.0.1216.720" timestamp="1599393912934" />
-    <state width="1140" height="187" key="GridCell.Tab.0.left" timestamp="1599393912934">
+    <state width="1140" height="187" key="GridCell.Tab.0.center/64.0.1216.720@64.0.1216.720" timestamp="1599564228325" />
+    <state width="1140" height="187" key="GridCell.Tab.0.left" timestamp="1599564228324">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="1140" height="187" key="GridCell.Tab.0.left/64.0.1216.720@64.0.1216.720" timestamp="1599393912934" />
-    <state width="1140" height="187" key="GridCell.Tab.0.right" timestamp="1599393912934">
+    <state width="1140" height="187" key="GridCell.Tab.0.left/64.0.1216.720@64.0.1216.720" timestamp="1599564228324" />
+    <state width="1140" height="187" key="GridCell.Tab.0.right" timestamp="1599564228325">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="1140" height="187" key="GridCell.Tab.0.right/64.0.1216.720@64.0.1216.720" timestamp="1599393912934" />
+    <state width="1140" height="187" key="GridCell.Tab.0.right/64.0.1216.720@64.0.1216.720" timestamp="1599564228325" />
     <state x="238" y="0" key="SettingsEditor" timestamp="1599133833372">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
