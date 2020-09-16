@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4b66dce-40a0-42bc-9e93-ddfcfd21baaa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ123456789.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ15649.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ15649.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ2156.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ2156.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +57,14 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="Application.BOJ2565">
+  <component name="RunManager" selected="Application.BOJ1541">
+    <configuration name="BOJ11047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ11047" />
+      <module name="coding_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BOJ11053" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ11053" />
       <module name="coding_java" />
@@ -76,69 +79,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ11054" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ11054" />
+    <configuration name="BOJ11399" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ11399" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ12865" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ12865" />
+    <configuration name="BOJ1541" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ1541" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ1912" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ1912" />
+    <configuration name="BOJ1931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ1931" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ2565" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ2565" />
+    <configuration name="BOJ2156" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ2156" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ9251" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ9251" />
-      <module name="coding_java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.BOJ11053" />
-      <item itemvalue="Application.BOJ11054" />
-      <item itemvalue="Application.BOJ9251" />
-      <item itemvalue="Application.BOJ12865" />
-      <item itemvalue="Application.BOJ1912" />
-      <item itemvalue="Application.BOJ2565" />
+      <item itemvalue="Application.BOJ11047" />
+      <item itemvalue="Application.BOJ1931" />
+      <item itemvalue="Application.BOJ2156" />
+      <item itemvalue="Application.BOJ11399" />
+      <item itemvalue="Application.BOJ1541" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ2565" />
-        <item itemvalue="Application.BOJ1912" />
-        <item itemvalue="Application.BOJ12865" />
-        <item itemvalue="Application.BOJ9251" />
-        <item itemvalue="Application.BOJ11054" />
+        <item itemvalue="Application.BOJ1541" />
+        <item itemvalue="Application.BOJ11399" />
+        <item itemvalue="Application.BOJ2156" />
+        <item itemvalue="Application.BOJ1931" />
+        <item itemvalue="Application.BOJ11047" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +160,10 @@
       <workItem from="1599750509675" duration="9419000" />
       <workItem from="1599801585930" duration="1318000" />
       <workItem from="1599975767814" duration="12433000" />
-      <workItem from="1600071405301" duration="20557000" />
+      <workItem from="1600071405301" duration="27503000" />
+      <workItem from="1600241939958" duration="22000" />
+      <workItem from="1600245015073" duration="12000" />
+      <workItem from="1600253149915" duration="7843000" />
     </task>
     <servers />
   </component>
@@ -207,26 +204,26 @@
       <screen x="64" y="0" width="1216" height="720" />
     </state>
     <state x="443" y="99" key="FileChooserDialogImpl/64.0.1216.720@64.0.1216.720" timestamp="1599748609335" />
-    <state width="1140" height="160" key="GridCell.Tab.0.bottom" timestamp="1600160769389">
+    <state width="1140" height="160" key="GridCell.Tab.0.bottom" timestamp="1600261536399">
       <screen x="65" y="0" width="1215" height="720" />
     </state>
     <state width="1140" height="160" key="GridCell.Tab.0.bottom/64.0.1216.720@64.0.1216.720" timestamp="1599753945607" />
-    <state width="1140" height="160" key="GridCell.Tab.0.bottom/65.0.1215.720@65.0.1215.720" timestamp="1600160769389" />
-    <state width="1140" height="160" key="GridCell.Tab.0.center" timestamp="1600160769388">
+    <state width="1140" height="160" key="GridCell.Tab.0.bottom/65.0.1215.720@65.0.1215.720" timestamp="1600261536399" />
+    <state width="1140" height="160" key="GridCell.Tab.0.center" timestamp="1600261536399">
       <screen x="65" y="0" width="1215" height="720" />
     </state>
     <state width="1140" height="160" key="GridCell.Tab.0.center/64.0.1216.720@64.0.1216.720" timestamp="1599753945606" />
-    <state width="1140" height="160" key="GridCell.Tab.0.center/65.0.1215.720@65.0.1215.720" timestamp="1600160769388" />
-    <state width="1140" height="160" key="GridCell.Tab.0.left" timestamp="1600160769388">
+    <state width="1140" height="160" key="GridCell.Tab.0.center/65.0.1215.720@65.0.1215.720" timestamp="1600261536399" />
+    <state width="1140" height="160" key="GridCell.Tab.0.left" timestamp="1600261536399">
       <screen x="65" y="0" width="1215" height="720" />
     </state>
     <state width="1140" height="160" key="GridCell.Tab.0.left/64.0.1216.720@64.0.1216.720" timestamp="1599753945606" />
-    <state width="1140" height="160" key="GridCell.Tab.0.left/65.0.1215.720@65.0.1215.720" timestamp="1600160769388" />
-    <state width="1140" height="160" key="GridCell.Tab.0.right" timestamp="1600160769388">
+    <state width="1140" height="160" key="GridCell.Tab.0.left/65.0.1215.720@65.0.1215.720" timestamp="1600261536399" />
+    <state width="1140" height="160" key="GridCell.Tab.0.right" timestamp="1600261536399">
       <screen x="65" y="0" width="1215" height="720" />
     </state>
     <state width="1140" height="160" key="GridCell.Tab.0.right/64.0.1216.720@64.0.1216.720" timestamp="1599753945607" />
-    <state width="1140" height="160" key="GridCell.Tab.0.right/65.0.1215.720@65.0.1215.720" timestamp="1600160769388" />
+    <state width="1140" height="160" key="GridCell.Tab.0.right/65.0.1215.720@65.0.1215.720" timestamp="1600261536399" />
     <state x="238" y="0" key="SettingsEditor" timestamp="1599751357571">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
@@ -239,19 +236,20 @@
       <screen x="64" y="0" width="1216" height="720" />
     </state>
     <state x="278" y="0" width="598" height="720" key="find.popup/64.0.1216.720@64.0.1216.720" timestamp="1598974518750" />
-    <state x="64" y="0" key="new project wizard" timestamp="1599746295428">
-      <screen x="64" y="0" width="1216" height="720" />
+    <state x="65" y="0" key="new project wizard" timestamp="1600241918031">
+      <screen x="65" y="0" width="1215" height="720" />
     </state>
     <state x="64" y="0" key="new project wizard/64.0.1216.720@64.0.1216.720" timestamp="1599746295428" />
+    <state x="65" y="0" key="new project wizard/65.0.1215.720@65.0.1215.720" timestamp="1600241918031" />
     <state x="466" y="181" key="run.anything.popup" timestamp="1599314074453">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
     <state x="466" y="181" key="run.anything.popup/64.0.1216.720@64.0.1216.720" timestamp="1599314074453" />
-    <state x="360" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1599985755172">
+    <state x="361" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1600261174350">
       <screen x="65" y="0" width="1215" height="720" />
     </state>
     <state x="359" y="41" width="672" height="678" key="search.everywhere.popup/64.0.1216.720@64.0.1216.720" timestamp="1599745995333" />
-    <state x="360" y="41" width="672" height="678" key="search.everywhere.popup/65.0.1215.720@65.0.1215.720" timestamp="1599985755172" />
+    <state x="361" y="41" width="672" height="678" key="search.everywhere.popup/65.0.1215.720@65.0.1215.720" timestamp="1600261174350" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
