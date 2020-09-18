@@ -20,42 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4b66dce-40a0-42bc-9e93-ddfcfd21baaa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ1003.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ1003.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ1037.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ1037.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ10844.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ10844.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ11047.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ11047.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ11053.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ11053.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ11054.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ11054.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ11399.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ11399.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ1149.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ1149.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ11653.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ11653.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ12865.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ12865.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ1463.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ1463.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ14888.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ14888.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ14889.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ14889.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ1541.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ1541.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ15649.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ15649.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ15650.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ15650.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ15651.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ15651.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ15652.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ15652.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ1904.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ1904.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ1912.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ1912.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ1931.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ1931.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ1932.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ1932.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ2156.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ2156.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ2565.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ2565.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ2579.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ2579.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ2580.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ2580.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ2609.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ2609.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ2748.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ2748.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ2981.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ2981.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ3036.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ3036.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ5086.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ5086.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ9251.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ9251.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ9461.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ9461.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ9663.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ9663.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ11051.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ11051.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +58,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.BOJ11051">
+  <component name="RunManager" selected="Application.BOJ2004">
     <configuration name="BOJ11050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ11050" />
       <module name="coding_java" />
@@ -121,22 +87,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ14888" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ14888" />
+    <configuration name="BOJ1676" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ1676" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ3036" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ3036" />
+    <configuration name="BOJ2004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ2004" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ9461" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ9461" />
+    <configuration name="BOJ9375" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ9375" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -155,19 +121,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.BOJ11053" />
-      <item itemvalue="Application.BOJ3036" />
-      <item itemvalue="Application.BOJ9461" />
-      <item itemvalue="Application.BOJ14888" />
       <item itemvalue="Application.BOJ11050" />
       <item itemvalue="Application.BOJ11051" />
+      <item itemvalue="Application.BOJ9375" />
+      <item itemvalue="Application.BOJ1676" />
+      <item itemvalue="Application.BOJ2004" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ2004" />
+        <item itemvalue="Application.BOJ1676" />
+        <item itemvalue="Application.BOJ9375" />
         <item itemvalue="Application.BOJ11051" />
         <item itemvalue="Application.BOJ11050" />
-        <item itemvalue="Application.BOJ14888" />
-        <item itemvalue="Application.BOJ9461" />
-        <item itemvalue="Application.BOJ3036" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +166,7 @@
       <workItem from="1600245015073" duration="12000" />
       <workItem from="1600253149915" duration="22119000" />
       <workItem from="1600351141855" duration="106000" />
-      <workItem from="1600426928791" duration="5393000" />
+      <workItem from="1600426928791" duration="16955000" />
     </task>
     <servers />
   </component>
@@ -242,25 +208,25 @@
     </state>
     <state x="443" y="99" key="FileChooserDialogImpl/64.0.1216.720@64.0.1216.720" timestamp="1599748609335" />
     <state x="444" y="99" key="FileChooserDialogImpl/65.0.1215.720@65.0.1215.720" timestamp="1600351204892" />
-    <state width="957" height="160" key="GridCell.Tab.0.bottom" timestamp="1600436007883">
+    <state width="957" height="160" key="GridCell.Tab.0.bottom" timestamp="1600447048989">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="957" height="160" key="GridCell.Tab.0.bottom/64.0.1216.720@64.0.1216.720" timestamp="1600436007883" />
+    <state width="957" height="160" key="GridCell.Tab.0.bottom/64.0.1216.720@64.0.1216.720" timestamp="1600447048989" />
     <state width="565" height="173" key="GridCell.Tab.0.bottom/65.0.1215.720@65.0.1215.720" timestamp="1600339026597" />
-    <state width="957" height="160" key="GridCell.Tab.0.center" timestamp="1600436007883">
+    <state width="957" height="160" key="GridCell.Tab.0.center" timestamp="1600447048989">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="957" height="160" key="GridCell.Tab.0.center/64.0.1216.720@64.0.1216.720" timestamp="1600436007883" />
+    <state width="957" height="160" key="GridCell.Tab.0.center/64.0.1216.720@64.0.1216.720" timestamp="1600447048989" />
     <state width="565" height="173" key="GridCell.Tab.0.center/65.0.1215.720@65.0.1215.720" timestamp="1600339026597" />
-    <state width="957" height="160" key="GridCell.Tab.0.left" timestamp="1600436007883">
+    <state width="957" height="160" key="GridCell.Tab.0.left" timestamp="1600447048988">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="957" height="160" key="GridCell.Tab.0.left/64.0.1216.720@64.0.1216.720" timestamp="1600436007883" />
+    <state width="957" height="160" key="GridCell.Tab.0.left/64.0.1216.720@64.0.1216.720" timestamp="1600447048988" />
     <state width="565" height="173" key="GridCell.Tab.0.left/65.0.1215.720@65.0.1215.720" timestamp="1600339026597" />
-    <state width="957" height="160" key="GridCell.Tab.0.right" timestamp="1600436007883">
+    <state width="957" height="160" key="GridCell.Tab.0.right" timestamp="1600447048989">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="957" height="160" key="GridCell.Tab.0.right/64.0.1216.720@64.0.1216.720" timestamp="1600436007883" />
+    <state width="957" height="160" key="GridCell.Tab.0.right/64.0.1216.720@64.0.1216.720" timestamp="1600447048989" />
     <state width="565" height="173" key="GridCell.Tab.0.right/65.0.1215.720@65.0.1215.720" timestamp="1600339026597" />
     <state x="238" y="0" key="SettingsEditor" timestamp="1600433993004">
       <screen x="64" y="0" width="1216" height="720" />
@@ -287,10 +253,10 @@
       <screen x="64" y="0" width="1216" height="720" />
     </state>
     <state x="466" y="181" key="run.anything.popup/64.0.1216.720@64.0.1216.720" timestamp="1599314074453" />
-    <state x="361" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1600261174350">
-      <screen x="65" y="0" width="1215" height="720" />
+    <state x="359" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1600441685048">
+      <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state x="359" y="41" width="672" height="678" key="search.everywhere.popup/64.0.1216.720@64.0.1216.720" timestamp="1599745995333" />
+    <state x="359" y="41" width="672" height="678" key="search.everywhere.popup/64.0.1216.720@64.0.1216.720" timestamp="1600441685048" />
     <state x="361" y="41" width="672" height="678" key="search.everywhere.popup/65.0.1215.720@65.0.1215.720" timestamp="1600261174350" />
   </component>
   <component name="XDebuggerManager">
