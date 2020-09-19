@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a4b66dce-40a0-42bc-9e93-ddfcfd21baaa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ11051.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ11051.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,18 +55,18 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.BOJ2004">
-    <configuration name="BOJ11050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ11050" />
+  <component name="RunManager" selected="Application.BOJ9012">
+    <configuration name="BOJ10773" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ10773" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ11051" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ11051" />
+    <configuration name="BOJ10828" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ10828" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,39 +100,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ9375" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ9375" />
+    <configuration name="BOJ9012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ9012" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.BOJ11053" />
-      <item itemvalue="Application.BOJ11050" />
-      <item itemvalue="Application.BOJ11051" />
-      <item itemvalue="Application.BOJ9375" />
       <item itemvalue="Application.BOJ1676" />
       <item itemvalue="Application.BOJ2004" />
+      <item itemvalue="Application.BOJ10828" />
+      <item itemvalue="Application.BOJ10773" />
+      <item itemvalue="Application.BOJ9012" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ9012" />
+        <item itemvalue="Application.BOJ10773" />
+        <item itemvalue="Application.BOJ10828" />
         <item itemvalue="Application.BOJ2004" />
         <item itemvalue="Application.BOJ1676" />
-        <item itemvalue="Application.BOJ9375" />
-        <item itemvalue="Application.BOJ11051" />
-        <item itemvalue="Application.BOJ11050" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +167,8 @@
       <workItem from="1600245015073" duration="12000" />
       <workItem from="1600253149915" duration="22119000" />
       <workItem from="1600351141855" duration="106000" />
-      <workItem from="1600426928791" duration="16955000" />
+      <workItem from="1600426928791" duration="17614000" />
+      <workItem from="1600508932277" duration="4567000" />
     </task>
     <servers />
   </component>
@@ -208,30 +210,30 @@
     </state>
     <state x="443" y="99" key="FileChooserDialogImpl/64.0.1216.720@64.0.1216.720" timestamp="1599748609335" />
     <state x="444" y="99" key="FileChooserDialogImpl/65.0.1215.720@65.0.1215.720" timestamp="1600351204892" />
-    <state width="957" height="160" key="GridCell.Tab.0.bottom" timestamp="1600447048989">
+    <state width="958" height="160" key="GridCell.Tab.0.bottom" timestamp="1600513060106">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="957" height="160" key="GridCell.Tab.0.bottom/64.0.1216.720@64.0.1216.720" timestamp="1600447048989" />
+    <state width="958" height="160" key="GridCell.Tab.0.bottom/64.0.1216.720@64.0.1216.720" timestamp="1600513060106" />
     <state width="565" height="173" key="GridCell.Tab.0.bottom/65.0.1215.720@65.0.1215.720" timestamp="1600339026597" />
-    <state width="957" height="160" key="GridCell.Tab.0.center" timestamp="1600447048989">
+    <state width="958" height="160" key="GridCell.Tab.0.center" timestamp="1600513060106">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="957" height="160" key="GridCell.Tab.0.center/64.0.1216.720@64.0.1216.720" timestamp="1600447048989" />
+    <state width="958" height="160" key="GridCell.Tab.0.center/64.0.1216.720@64.0.1216.720" timestamp="1600513060106" />
     <state width="565" height="173" key="GridCell.Tab.0.center/65.0.1215.720@65.0.1215.720" timestamp="1600339026597" />
-    <state width="957" height="160" key="GridCell.Tab.0.left" timestamp="1600447048988">
+    <state width="958" height="160" key="GridCell.Tab.0.left" timestamp="1600513060106">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="957" height="160" key="GridCell.Tab.0.left/64.0.1216.720@64.0.1216.720" timestamp="1600447048988" />
+    <state width="958" height="160" key="GridCell.Tab.0.left/64.0.1216.720@64.0.1216.720" timestamp="1600513060106" />
     <state width="565" height="173" key="GridCell.Tab.0.left/65.0.1215.720@65.0.1215.720" timestamp="1600339026597" />
-    <state width="957" height="160" key="GridCell.Tab.0.right" timestamp="1600447048989">
+    <state width="958" height="160" key="GridCell.Tab.0.right" timestamp="1600513060106">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="957" height="160" key="GridCell.Tab.0.right/64.0.1216.720@64.0.1216.720" timestamp="1600447048989" />
+    <state width="958" height="160" key="GridCell.Tab.0.right/64.0.1216.720@64.0.1216.720" timestamp="1600513060106" />
     <state width="565" height="173" key="GridCell.Tab.0.right/65.0.1215.720@65.0.1215.720" timestamp="1600339026597" />
-    <state x="238" y="0" key="SettingsEditor" timestamp="1600433993004">
+    <state x="238" y="0" key="SettingsEditor" timestamp="1600509131228">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state x="238" y="0" key="SettingsEditor/64.0.1216.720@64.0.1216.720" timestamp="1600433993004" />
+    <state x="238" y="0" key="SettingsEditor/64.0.1216.720@64.0.1216.720" timestamp="1600509131228" />
     <state x="317" y="115" width="963" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599382453862">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
