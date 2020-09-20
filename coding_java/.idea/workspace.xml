@@ -57,7 +57,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.BOJ9012">
+  <component name="RunManager" selected="Application.BOJ1874">
     <configuration name="BOJ10773" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ10773" />
       <module name="coding_java" />
@@ -86,15 +86,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ1676" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ1676" />
+    <configuration name="BOJ1874" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ1874" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ2004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ2004" />
+    <configuration name="BOJ4949" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ4949" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,34 +107,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.BOJ11053" />
-      <item itemvalue="Application.BOJ1676" />
-      <item itemvalue="Application.BOJ2004" />
       <item itemvalue="Application.BOJ10828" />
       <item itemvalue="Application.BOJ10773" />
       <item itemvalue="Application.BOJ9012" />
+      <item itemvalue="Application.BOJ4949" />
+      <item itemvalue="Application.BOJ1874" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ1874" />
+        <item itemvalue="Application.BOJ4949" />
         <item itemvalue="Application.BOJ9012" />
         <item itemvalue="Application.BOJ10773" />
         <item itemvalue="Application.BOJ10828" />
-        <item itemvalue="Application.BOJ2004" />
-        <item itemvalue="Application.BOJ1676" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +166,8 @@
       <workItem from="1600253149915" duration="22119000" />
       <workItem from="1600351141855" duration="106000" />
       <workItem from="1600426928791" duration="17614000" />
-      <workItem from="1600508932277" duration="4567000" />
+      <workItem from="1600508932277" duration="5436000" />
+      <workItem from="1600608161874" duration="5119000" />
     </task>
     <servers />
   </component>
@@ -210,25 +209,25 @@
     </state>
     <state x="443" y="99" key="FileChooserDialogImpl/64.0.1216.720@64.0.1216.720" timestamp="1599748609335" />
     <state x="444" y="99" key="FileChooserDialogImpl/65.0.1215.720@65.0.1215.720" timestamp="1600351204892" />
-    <state width="958" height="160" key="GridCell.Tab.0.bottom" timestamp="1600513060106">
+    <state width="958" height="160" key="GridCell.Tab.0.bottom" timestamp="1600614728805">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="958" height="160" key="GridCell.Tab.0.bottom/64.0.1216.720@64.0.1216.720" timestamp="1600513060106" />
+    <state width="958" height="160" key="GridCell.Tab.0.bottom/64.0.1216.720@64.0.1216.720" timestamp="1600614728805" />
     <state width="565" height="173" key="GridCell.Tab.0.bottom/65.0.1215.720@65.0.1215.720" timestamp="1600339026597" />
-    <state width="958" height="160" key="GridCell.Tab.0.center" timestamp="1600513060106">
+    <state width="958" height="160" key="GridCell.Tab.0.center" timestamp="1600614728805">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="958" height="160" key="GridCell.Tab.0.center/64.0.1216.720@64.0.1216.720" timestamp="1600513060106" />
+    <state width="958" height="160" key="GridCell.Tab.0.center/64.0.1216.720@64.0.1216.720" timestamp="1600614728805" />
     <state width="565" height="173" key="GridCell.Tab.0.center/65.0.1215.720@65.0.1215.720" timestamp="1600339026597" />
-    <state width="958" height="160" key="GridCell.Tab.0.left" timestamp="1600513060106">
+    <state width="958" height="160" key="GridCell.Tab.0.left" timestamp="1600614728805">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="958" height="160" key="GridCell.Tab.0.left/64.0.1216.720@64.0.1216.720" timestamp="1600513060106" />
+    <state width="958" height="160" key="GridCell.Tab.0.left/64.0.1216.720@64.0.1216.720" timestamp="1600614728805" />
     <state width="565" height="173" key="GridCell.Tab.0.left/65.0.1215.720@65.0.1215.720" timestamp="1600339026597" />
-    <state width="958" height="160" key="GridCell.Tab.0.right" timestamp="1600513060106">
+    <state width="958" height="160" key="GridCell.Tab.0.right" timestamp="1600614728805">
       <screen x="64" y="0" width="1216" height="720" />
     </state>
-    <state width="958" height="160" key="GridCell.Tab.0.right/64.0.1216.720@64.0.1216.720" timestamp="1600513060106" />
+    <state width="958" height="160" key="GridCell.Tab.0.right/64.0.1216.720@64.0.1216.720" timestamp="1600614728805" />
     <state width="565" height="173" key="GridCell.Tab.0.right/65.0.1215.720@65.0.1215.720" timestamp="1600339026597" />
     <state x="238" y="0" key="SettingsEditor" timestamp="1600509131228">
       <screen x="64" y="0" width="1216" height="720" />
