@@ -18,7 +18,7 @@ public class BOJ11066 {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         int t = Integer.parseInt(br.readLine());
-        StringTokenizer st = null;
+        StringTokenizer st;
         for (int i = 0; i < t; i++) {
             int k = Integer.parseInt(br.readLine());
             int[] file = new int[k];
