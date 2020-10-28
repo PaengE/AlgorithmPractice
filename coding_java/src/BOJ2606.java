@@ -1,6 +1,12 @@
 import java.io.*;
 import java.util.*;
 
+/**
+ * no.2606: 바이러스
+ * description: BFS 나 DFS 로 그래프를 순회해서 방문할 수 있는 정점을 찾는 문제
+ * hint: 인접리스트를 생성 후 DFS 사용
+ */
+
 public class BOJ2606 {
     static int count = 0;
     public static void main(String[] args) throws IOException {
