@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a4b66dce-40a0-42bc-9e93-ddfcfd21baaa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ1753.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ1753.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding_java/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/Node.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +59,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.BOJ1753">
+  <component name="RunManager" selected="Application.BOJ9370">
     <configuration name="BOJ11053" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ11053" />
       <module name="coding_java" />
@@ -72,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ1697" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ1697" />
+    <configuration name="BOJ1504" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ1504" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ7576" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ7576" />
+    <configuration name="BOJ9370" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ9370" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,19 +122,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.BOJ11053" />
-      <item itemvalue="Application.BOJ7576" />
-      <item itemvalue="Application.BOJ1697" />
       <item itemvalue="Application.BOJ7569" />
       <item itemvalue="Application.BOJ2206" />
       <item itemvalue="Application.BOJ1753" />
+      <item itemvalue="Application.BOJ1504" />
+      <item itemvalue="Application.BOJ9370" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ9370" />
+        <item itemvalue="Application.BOJ1504" />
         <item itemvalue="Application.BOJ1753" />
         <item itemvalue="Application.BOJ2206" />
         <item itemvalue="Application.BOJ7569" />
-        <item itemvalue="Application.BOJ7576" />
-        <item itemvalue="Application.BOJ1697" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +189,7 @@
       <workItem from="1603890944548" duration="650000" />
       <workItem from="1603966044725" duration="586000" />
       <workItem from="1603971611922" duration="991000" />
-      <workItem from="1604143360115" duration="3931000" />
+      <workItem from="1604143360115" duration="17492000" />
     </task>
     <servers />
   </component>
@@ -207,9 +209,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="176" y="0" key="#Project_Structure" timestamp="1600688364614">
-      <screen x="64" y="0" width="1216" height="720" />
+    <state x="199" y="0" key="#Project_Structure" timestamp="1604212156470">
+      <screen x="63" y="0" width="1473" height="864" />
     </state>
+    <state x="199" y="0" key="#Project_Structure/63.0.1473.864@63.0.1473.864" timestamp="1604212156470" />
     <state x="176" y="0" key="#Project_Structure/64.0.1216.720@64.0.1216.720" timestamp="1600688364614" />
     <state x="177" y="0" key="#Project_Structure/65.0.1215.720@65.0.1215.720" timestamp="1600330151938" />
     <state x="412" y="195" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1599748618108">
@@ -242,32 +245,32 @@
     <state x="523" y="119" key="FileChooserDialogImpl/63.0.1473.864@63.0.1473.864" timestamp="1603966631815" />
     <state x="443" y="99" key="FileChooserDialogImpl/64.0.1216.720@64.0.1216.720" timestamp="1599748609335" />
     <state x="444" y="99" key="FileChooserDialogImpl/65.0.1215.720@65.0.1215.720" timestamp="1600351204892" />
-    <state width="694" height="193" key="GridCell.Tab.0.bottom" timestamp="1604153485667">
+    <state width="693" height="192" key="GridCell.Tab.0.bottom" timestamp="1604223741453">
       <screen x="63" y="0" width="1473" height="864" />
     </state>
     <state width="565" height="193" key="GridCell.Tab.0.bottom/63.0.1217.720@63.0.1217.720" timestamp="1603790914560" />
-    <state width="694" height="193" key="GridCell.Tab.0.bottom/63.0.1473.864@63.0.1473.864" timestamp="1604153485667" />
+    <state width="693" height="192" key="GridCell.Tab.0.bottom/63.0.1473.864@63.0.1473.864" timestamp="1604223741453" />
     <state width="958" height="160" key="GridCell.Tab.0.bottom/64.0.1216.720@64.0.1216.720" timestamp="1600795147274" />
     <state width="958" height="160" key="GridCell.Tab.0.bottom/65.0.1215.720@65.0.1215.720" timestamp="1600858558140" />
-    <state width="694" height="193" key="GridCell.Tab.0.center" timestamp="1604153485667">
+    <state width="693" height="192" key="GridCell.Tab.0.center" timestamp="1604223741453">
       <screen x="63" y="0" width="1473" height="864" />
     </state>
     <state width="565" height="193" key="GridCell.Tab.0.center/63.0.1217.720@63.0.1217.720" timestamp="1603790914560" />
-    <state width="694" height="193" key="GridCell.Tab.0.center/63.0.1473.864@63.0.1473.864" timestamp="1604153485667" />
+    <state width="693" height="192" key="GridCell.Tab.0.center/63.0.1473.864@63.0.1473.864" timestamp="1604223741453" />
     <state width="958" height="160" key="GridCell.Tab.0.center/64.0.1216.720@64.0.1216.720" timestamp="1600795147273" />
     <state width="958" height="160" key="GridCell.Tab.0.center/65.0.1215.720@65.0.1215.720" timestamp="1600858558140" />
-    <state width="694" height="193" key="GridCell.Tab.0.left" timestamp="1604153485667">
+    <state width="693" height="192" key="GridCell.Tab.0.left" timestamp="1604223741452">
       <screen x="63" y="0" width="1473" height="864" />
     </state>
     <state width="565" height="193" key="GridCell.Tab.0.left/63.0.1217.720@63.0.1217.720" timestamp="1603790914560" />
-    <state width="694" height="193" key="GridCell.Tab.0.left/63.0.1473.864@63.0.1473.864" timestamp="1604153485667" />
+    <state width="693" height="192" key="GridCell.Tab.0.left/63.0.1473.864@63.0.1473.864" timestamp="1604223741452" />
     <state width="958" height="160" key="GridCell.Tab.0.left/64.0.1216.720@64.0.1216.720" timestamp="1600795147273" />
     <state width="958" height="160" key="GridCell.Tab.0.left/65.0.1215.720@65.0.1215.720" timestamp="1600858558139" />
-    <state width="694" height="193" key="GridCell.Tab.0.right" timestamp="1604153485667">
+    <state width="693" height="192" key="GridCell.Tab.0.right" timestamp="1604223741453">
       <screen x="63" y="0" width="1473" height="864" />
     </state>
     <state width="565" height="193" key="GridCell.Tab.0.right/63.0.1217.720@63.0.1217.720" timestamp="1603790914560" />
-    <state width="694" height="193" key="GridCell.Tab.0.right/63.0.1473.864@63.0.1473.864" timestamp="1604153485667" />
+    <state width="693" height="192" key="GridCell.Tab.0.right/63.0.1473.864@63.0.1473.864" timestamp="1604223741453" />
     <state width="958" height="160" key="GridCell.Tab.0.right/64.0.1216.720@64.0.1216.720" timestamp="1600795147274" />
     <state width="958" height="160" key="GridCell.Tab.0.right/65.0.1215.720@65.0.1215.720" timestamp="1600858558140" />
     <state x="502" y="90" key="RollbackChangesDialog" timestamp="1603708066154">
