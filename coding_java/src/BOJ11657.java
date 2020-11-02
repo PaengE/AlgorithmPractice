@@ -90,7 +90,7 @@ public class BOJ11657 {
         // n == 2 일땐 음수사이클이 없어도 update flag 가 true 로 설정 되어 있으니 조건을 추가
         // n - 1번째까지 업데이트를 진행했을 때 변경이 감지되면 n 번째에도 업데이트를 하므로
         // 음수 사이클이 존재하다고 생각할 수 있음음
-        return updae && n > 2 ? true : false;
+        return update && n > 2 ? true : false;
     }
 }
 class Node11657 implements Comparable<Node11657> {
