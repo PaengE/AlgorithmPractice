@@ -4,6 +4,7 @@ import java.util.StringTokenizer;
 /**
  * No.17404: RGB 거리 2
  * Description: 집이 원형으로 배열된 RGB 거리 문제
+ * URL: https://www.acmicpc.net/problem/17404
  * Hint: 시작점을 지정하여 DP
  */
 

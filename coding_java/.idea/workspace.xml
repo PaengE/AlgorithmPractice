@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4b66dce-40a0-42bc-9e93-ddfcfd21baaa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ11723$MySet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ11723.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ11723.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ17404.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ2482.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ17404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ2482.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.BOJ2482">
+  <component name="RunManager" selected="Application.BOJ1197_Kruskal">
     <configuration name="BOJ11053" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ11053" />
       <module name="coding_java" />
@@ -75,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ11723" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ11723" />
+    <configuration name="BOJ1197_Kruskal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ1197_Kruskal" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,13 +85,6 @@
     </configuration>
     <configuration name="BOJ17404" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ17404" />
-      <module name="coding_java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ1956" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ1956" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,21 +104,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ9372" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ9372" />
+      <module name="coding_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.BOJ11053" />
-      <item itemvalue="Application.BOJ1956" />
-      <item itemvalue="Application.BOJ11723" />
       <item itemvalue="Application.BOJ2098" />
       <item itemvalue="Application.BOJ17404" />
       <item itemvalue="Application.BOJ2482" />
+      <item itemvalue="Application.BOJ9372" />
+      <item itemvalue="Application.BOJ1197_Kruskal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ1197_Kruskal" />
+        <item itemvalue="Application.BOJ9372" />
         <item itemvalue="Application.BOJ2482" />
         <item itemvalue="Application.BOJ17404" />
         <item itemvalue="Application.BOJ2098" />
-        <item itemvalue="Application.BOJ11723" />
-        <item itemvalue="Application.BOJ1956" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +196,7 @@
       <workItem from="1604718632045" duration="115000" />
       <workItem from="1605003522179" duration="17277000" />
       <workItem from="1605081981735" duration="14633000" />
+      <workItem from="1605168846182" duration="6959000" />
     </task>
     <servers />
   </component>
@@ -213,11 +226,11 @@
       <screen x="64" y="0" width="1216" height="720" />
     </state>
     <state x="412" y="195" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/64.0.1216.720@64.0.1216.720" timestamp="1599748618108" />
-    <state x="1014" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1605010056998">
+    <state x="1014" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1605251078775">
       <screen x="63" y="0" width="1473" height="864" />
     </state>
     <state x="849" y="88" key="#com.intellij.ide.util.MemberChooser/63.0.1217.720@63.0.1217.720" timestamp="1601988593187" />
-    <state x="1014" y="106" key="#com.intellij.ide.util.MemberChooser/63.0.1473.864@63.0.1473.864" timestamp="1605010056998" />
+    <state x="1014" y="106" key="#com.intellij.ide.util.MemberChooser/63.0.1473.864@63.0.1473.864" timestamp="1605251078775" />
     <state x="456" y="252" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601558778904">
       <screen x="63" y="0" width="1217" height="720" />
     </state>
@@ -240,32 +253,32 @@
     <state x="523" y="119" key="FileChooserDialogImpl/63.0.1473.864@63.0.1473.864" timestamp="1604718744200" />
     <state x="443" y="99" key="FileChooserDialogImpl/64.0.1216.720@64.0.1216.720" timestamp="1599748609335" />
     <state x="444" y="99" key="FileChooserDialogImpl/65.0.1215.720@65.0.1215.720" timestamp="1600351204892" />
-    <state width="848" height="189" key="GridCell.Tab.0.bottom" timestamp="1605106026773">
+    <state width="643" height="190" key="GridCell.Tab.0.bottom" timestamp="1605252935360">
       <screen x="63" y="0" width="1473" height="864" />
     </state>
     <state width="565" height="193" key="GridCell.Tab.0.bottom/63.0.1217.720@63.0.1217.720" timestamp="1603790914560" />
-    <state width="848" height="189" key="GridCell.Tab.0.bottom/63.0.1473.864@63.0.1473.864" timestamp="1605106026773" />
+    <state width="643" height="190" key="GridCell.Tab.0.bottom/63.0.1473.864@63.0.1473.864" timestamp="1605252935360" />
     <state width="958" height="160" key="GridCell.Tab.0.bottom/64.0.1216.720@64.0.1216.720" timestamp="1600795147274" />
     <state width="958" height="160" key="GridCell.Tab.0.bottom/65.0.1215.720@65.0.1215.720" timestamp="1600858558140" />
-    <state width="848" height="189" key="GridCell.Tab.0.center" timestamp="1605106026773">
+    <state width="643" height="190" key="GridCell.Tab.0.center" timestamp="1605252935360">
       <screen x="63" y="0" width="1473" height="864" />
     </state>
     <state width="565" height="193" key="GridCell.Tab.0.center/63.0.1217.720@63.0.1217.720" timestamp="1603790914560" />
-    <state width="848" height="189" key="GridCell.Tab.0.center/63.0.1473.864@63.0.1473.864" timestamp="1605106026773" />
+    <state width="643" height="190" key="GridCell.Tab.0.center/63.0.1473.864@63.0.1473.864" timestamp="1605252935360" />
     <state width="958" height="160" key="GridCell.Tab.0.center/64.0.1216.720@64.0.1216.720" timestamp="1600795147273" />
     <state width="958" height="160" key="GridCell.Tab.0.center/65.0.1215.720@65.0.1215.720" timestamp="1600858558140" />
-    <state width="848" height="189" key="GridCell.Tab.0.left" timestamp="1605106026773">
+    <state width="643" height="190" key="GridCell.Tab.0.left" timestamp="1605252935359">
       <screen x="63" y="0" width="1473" height="864" />
     </state>
     <state width="565" height="193" key="GridCell.Tab.0.left/63.0.1217.720@63.0.1217.720" timestamp="1603790914560" />
-    <state width="848" height="189" key="GridCell.Tab.0.left/63.0.1473.864@63.0.1473.864" timestamp="1605106026773" />
+    <state width="643" height="190" key="GridCell.Tab.0.left/63.0.1473.864@63.0.1473.864" timestamp="1605252935359" />
     <state width="958" height="160" key="GridCell.Tab.0.left/64.0.1216.720@64.0.1216.720" timestamp="1600795147273" />
     <state width="958" height="160" key="GridCell.Tab.0.left/65.0.1215.720@65.0.1215.720" timestamp="1600858558139" />
-    <state width="848" height="189" key="GridCell.Tab.0.right" timestamp="1605106026773">
+    <state width="643" height="190" key="GridCell.Tab.0.right" timestamp="1605252935360">
       <screen x="63" y="0" width="1473" height="864" />
     </state>
     <state width="565" height="193" key="GridCell.Tab.0.right/63.0.1217.720@63.0.1217.720" timestamp="1603790914560" />
-    <state width="848" height="189" key="GridCell.Tab.0.right/63.0.1473.864@63.0.1473.864" timestamp="1605106026773" />
+    <state width="643" height="190" key="GridCell.Tab.0.right/63.0.1473.864@63.0.1473.864" timestamp="1605252935360" />
     <state width="958" height="160" key="GridCell.Tab.0.right/64.0.1216.720@64.0.1216.720" timestamp="1600795147274" />
     <state width="958" height="160" key="GridCell.Tab.0.right/65.0.1215.720@65.0.1215.720" timestamp="1600858558140" />
     <state x="502" y="90" key="RollbackChangesDialog" timestamp="1603708066154">
@@ -308,11 +321,11 @@
     <state x="466" y="181" key="run.anything.popup/63.0.1217.720@63.0.1217.720" timestamp="1603600756557" />
     <state x="551" y="217" key="run.anything.popup/63.0.1473.864@63.0.1473.864" timestamp="1603866206607" />
     <state x="467" y="181" key="run.anything.popup/64.0.1216.720@64.0.1216.720" timestamp="1600773863029" />
-    <state x="421" y="50" width="815" height="814" key="search.everywhere.popup" timestamp="1605007847222">
+    <state x="421" y="50" width="815" height="814" key="search.everywhere.popup" timestamp="1605251288676">
       <screen x="63" y="0" width="1473" height="864" />
     </state>
     <state x="359" y="41" width="673" height="678" key="search.everywhere.popup/63.0.1217.720@63.0.1217.720" timestamp="1603609439303" />
-    <state x="421" y="50" width="815" height="814" key="search.everywhere.popup/63.0.1473.864@63.0.1473.864" timestamp="1605007847222" />
+    <state x="421" y="50" width="815" height="814" key="search.everywhere.popup/63.0.1473.864@63.0.1473.864" timestamp="1605251288676" />
     <state x="359" y="41" width="672" height="678" key="search.everywhere.popup/64.0.1216.720@64.0.1216.720" timestamp="1600790282716" />
     <state x="361" y="41" width="672" height="678" key="search.everywhere.popup/65.0.1215.720@65.0.1215.720" timestamp="1600261174350" />
   </component>

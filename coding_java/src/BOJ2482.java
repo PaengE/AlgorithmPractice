@@ -3,6 +3,7 @@ import java.io.*;
 /**
  * No.2482: 색상환
  * Description: 원에서 인접하지 않게 색을 선택하는 문제
+ * URL: https://www.acmicpc.net/problem/2482
  * Hint: dp[i][j] 는 i개의 색상 중 j개를 고른 것을 의미
  *       dp[i][j] = dp[i - 2][j - 1] + dp[i - 1][j] (i - 2개 색상 중 j - 1개를 고른 것 + i - 1개 색상 중 j 개를 고른 것)
  */
