@@ -20,15 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4b66dce-40a0-42bc-9e93-ddfcfd21baaa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ1197_Prim$Edge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ1197_Prim.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ9372.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ1197_Kruskal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ1197_Prim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ9372.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ11726.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ11727.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ14501.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ2193.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ9095.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ11726.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ11727.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ14501.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ2193.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ9095.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ17404.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ17404.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ2482.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ2482.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,9 +65,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.BOJ9095">
+  <component name="RunManager" selected="Application.BOJ14501">
     <configuration name="BOJ11053" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ11053" />
       <module name="coding_java" />
@@ -80,36 +82,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ1197_Kruskal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ1197_Kruskal" />
+    <configuration name="BOJ11726" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ11726" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ1774" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ1774" />
+    <configuration name="BOJ11727" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ11727" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ2887" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ2887" />
+    <configuration name="BOJ12852" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ12852" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ9095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ9095" />
+    <configuration name="BOJ14501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ14501" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ9372" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ9372" />
+    <configuration name="BOJ2193" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ2193" />
       <module name="coding_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,19 +130,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.BOJ11053" />
-      <item itemvalue="Application.BOJ9372" />
-      <item itemvalue="Application.BOJ1197_Kruskal" />
-      <item itemvalue="Application.BOJ1774" />
-      <item itemvalue="Application.BOJ2887" />
-      <item itemvalue="Application.BOJ9095" />
+      <item itemvalue="Application.BOJ12852" />
+      <item itemvalue="Application.BOJ11726" />
+      <item itemvalue="Application.BOJ2193" />
+      <item itemvalue="Application.BOJ11727" />
+      <item itemvalue="Application.BOJ14501" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ9095" />
-        <item itemvalue="Application.BOJ2887" />
-        <item itemvalue="Application.BOJ1774" />
-        <item itemvalue="Application.BOJ1197_Kruskal" />
-        <item itemvalue="Application.BOJ9372" />
+        <item itemvalue="Application.BOJ14501" />
+        <item itemvalue="Application.BOJ11727" />
+        <item itemvalue="Application.BOJ2193" />
+        <item itemvalue="Application.BOJ11726" />
+        <item itemvalue="Application.BOJ12852" />
       </list>
     </recent_temporary>
   </component>
@@ -203,6 +205,9 @@
       <workItem from="1605168846182" duration="20409000" />
       <workItem from="1605273440826" duration="425000" />
       <workItem from="1605274431520" duration="615000" />
+      <workItem from="1605346006896" duration="11128000" />
+      <workItem from="1605446628656" duration="979000" />
+      <workItem from="1605521160215" duration="865000" />
     </task>
     <servers />
   </component>
@@ -226,10 +231,10 @@
       <screen x="63" y="0" width="1473" height="864" />
     </state>
     <state x="763" y="113" key="#Inspections/63.0.1473.864@63.0.1473.864" timestamp="1605272670050" />
-    <state x="199" y="0" key="#Project_Structure" timestamp="1604212156470">
+    <state x="199" y="0" key="#Project_Structure" timestamp="1605351781568">
       <screen x="63" y="0" width="1473" height="864" />
     </state>
-    <state x="199" y="0" key="#Project_Structure/63.0.1473.864@63.0.1473.864" timestamp="1604212156470" />
+    <state x="199" y="0" key="#Project_Structure/63.0.1473.864@63.0.1473.864" timestamp="1605351781568" />
     <state x="176" y="0" key="#Project_Structure/64.0.1216.720@64.0.1216.720" timestamp="1600688364614" />
     <state x="177" y="0" key="#Project_Structure/65.0.1215.720@65.0.1215.720" timestamp="1600330151938" />
     <state x="412" y="195" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1599748618108">
@@ -263,43 +268,43 @@
     <state x="523" y="119" key="FileChooserDialogImpl/63.0.1473.864@63.0.1473.864" timestamp="1604718744200" />
     <state x="443" y="99" key="FileChooserDialogImpl/64.0.1216.720@64.0.1216.720" timestamp="1599748609335" />
     <state x="444" y="99" key="FileChooserDialogImpl/65.0.1215.720@65.0.1215.720" timestamp="1600351204892" />
-    <state width="695" height="188" key="GridCell.Tab.0.bottom" timestamp="1605278175800">
+    <state width="694" height="189" key="GridCell.Tab.0.bottom" timestamp="1605521947194">
       <screen x="63" y="0" width="1473" height="864" />
     </state>
     <state width="565" height="193" key="GridCell.Tab.0.bottom/63.0.1217.720@63.0.1217.720" timestamp="1603790914560" />
-    <state width="695" height="188" key="GridCell.Tab.0.bottom/63.0.1473.864@63.0.1473.864" timestamp="1605278175800" />
+    <state width="694" height="189" key="GridCell.Tab.0.bottom/63.0.1473.864@63.0.1473.864" timestamp="1605521947194" />
     <state width="958" height="160" key="GridCell.Tab.0.bottom/64.0.1216.720@64.0.1216.720" timestamp="1600795147274" />
     <state width="958" height="160" key="GridCell.Tab.0.bottom/65.0.1215.720@65.0.1215.720" timestamp="1600858558140" />
-    <state width="695" height="188" key="GridCell.Tab.0.center" timestamp="1605278175800">
+    <state width="694" height="189" key="GridCell.Tab.0.center" timestamp="1605521947193">
       <screen x="63" y="0" width="1473" height="864" />
     </state>
     <state width="565" height="193" key="GridCell.Tab.0.center/63.0.1217.720@63.0.1217.720" timestamp="1603790914560" />
-    <state width="695" height="188" key="GridCell.Tab.0.center/63.0.1473.864@63.0.1473.864" timestamp="1605278175800" />
+    <state width="694" height="189" key="GridCell.Tab.0.center/63.0.1473.864@63.0.1473.864" timestamp="1605521947193" />
     <state width="958" height="160" key="GridCell.Tab.0.center/64.0.1216.720@64.0.1216.720" timestamp="1600795147273" />
     <state width="958" height="160" key="GridCell.Tab.0.center/65.0.1215.720@65.0.1215.720" timestamp="1600858558140" />
-    <state width="695" height="188" key="GridCell.Tab.0.left" timestamp="1605278175800">
+    <state width="694" height="189" key="GridCell.Tab.0.left" timestamp="1605521947193">
       <screen x="63" y="0" width="1473" height="864" />
     </state>
     <state width="565" height="193" key="GridCell.Tab.0.left/63.0.1217.720@63.0.1217.720" timestamp="1603790914560" />
-    <state width="695" height="188" key="GridCell.Tab.0.left/63.0.1473.864@63.0.1473.864" timestamp="1605278175800" />
+    <state width="694" height="189" key="GridCell.Tab.0.left/63.0.1473.864@63.0.1473.864" timestamp="1605521947193" />
     <state width="958" height="160" key="GridCell.Tab.0.left/64.0.1216.720@64.0.1216.720" timestamp="1600795147273" />
     <state width="958" height="160" key="GridCell.Tab.0.left/65.0.1215.720@65.0.1215.720" timestamp="1600858558139" />
-    <state width="695" height="188" key="GridCell.Tab.0.right" timestamp="1605278175800">
+    <state width="694" height="189" key="GridCell.Tab.0.right" timestamp="1605521947194">
       <screen x="63" y="0" width="1473" height="864" />
     </state>
     <state width="565" height="193" key="GridCell.Tab.0.right/63.0.1217.720@63.0.1217.720" timestamp="1603790914560" />
-    <state width="695" height="188" key="GridCell.Tab.0.right/63.0.1473.864@63.0.1473.864" timestamp="1605278175800" />
+    <state width="694" height="189" key="GridCell.Tab.0.right/63.0.1473.864@63.0.1473.864" timestamp="1605521947194" />
     <state width="958" height="160" key="GridCell.Tab.0.right/64.0.1216.720@64.0.1216.720" timestamp="1600795147274" />
     <state width="958" height="160" key="GridCell.Tab.0.right/65.0.1215.720@65.0.1215.720" timestamp="1600858558140" />
     <state x="502" y="90" key="RollbackChangesDialog" timestamp="1603708066154">
       <screen x="63" y="0" width="1217" height="720" />
     </state>
     <state x="502" y="90" key="RollbackChangesDialog/63.0.1217.720@63.0.1217.720" timestamp="1603708066154" />
-    <state x="274" y="0" key="SettingsEditor" timestamp="1603865214407">
+    <state x="303" y="94" key="SettingsEditor" timestamp="1605447129000">
       <screen x="63" y="0" width="1473" height="864" />
     </state>
     <state x="237" y="0" key="SettingsEditor/63.0.1217.720@63.0.1217.720" timestamp="1603619038581" />
-    <state x="274" y="0" key="SettingsEditor/63.0.1473.864@63.0.1473.864" timestamp="1603865214407" />
+    <state x="303" y="94" key="SettingsEditor/63.0.1473.864@63.0.1473.864" timestamp="1605447129000" />
     <state x="238" y="0" key="SettingsEditor/64.0.1216.720@64.0.1216.720" timestamp="1600509131228" />
     <state x="746" y="360" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605020503863">
       <screen x="63" y="0" width="1473" height="864" />
@@ -331,11 +336,11 @@
     <state x="466" y="181" key="run.anything.popup/63.0.1217.720@63.0.1217.720" timestamp="1603600756557" />
     <state x="551" y="217" key="run.anything.popup/63.0.1473.864@63.0.1473.864" timestamp="1603866206607" />
     <state x="467" y="181" key="run.anything.popup/64.0.1216.720@64.0.1216.720" timestamp="1600773863029" />
-    <state x="422" y="50" width="815" height="814" key="search.everywhere.popup" timestamp="1605273841628">
+    <state x="422" y="50" width="815" height="814" key="search.everywhere.popup" timestamp="1605348840417">
       <screen x="63" y="0" width="1473" height="864" />
     </state>
     <state x="359" y="41" width="673" height="678" key="search.everywhere.popup/63.0.1217.720@63.0.1217.720" timestamp="1603609439303" />
-    <state x="422" y="50" width="815" height="814" key="search.everywhere.popup/63.0.1473.864@63.0.1473.864" timestamp="1605273841628" />
+    <state x="422" y="50" width="815" height="814" key="search.everywhere.popup/63.0.1473.864@63.0.1473.864" timestamp="1605348840417" />
     <state x="359" y="41" width="672" height="678" key="search.everywhere.popup/64.0.1216.720@64.0.1216.720" timestamp="1600790282716" />
     <state x="361" y="41" width="672" height="678" key="search.everywhere.popup/65.0.1215.720@65.0.1215.720" timestamp="1600261174350" />
   </component>
