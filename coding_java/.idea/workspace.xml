@@ -20,9 +20,96 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4b66dce-40a0-42bc-9e93-ddfcfd21baaa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../01/1000.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01/1001.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01/1008.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01/10171.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01/10172.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01/10430.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01/10718.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01/10869.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01/10998.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01/2557.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01/2588.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01/7287.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02/10817.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02/1330.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02/2753.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02/2884.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02/9498.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/10871.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/10950.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/11021.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/11022.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/15552.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/2438.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/2439.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/2739.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/2741.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/2742.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/8393.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04/10951.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04/10952.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04/1110.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04/14681.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05/10818.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05/1546.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05/2562.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05/2577.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05/2920.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05/3052.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05/4344.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05/8958.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06/1065.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06/10872.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06/11729.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06/15596.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06/2447.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06/4673.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07/10809.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07/1152.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07/1157.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07/11654.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07/11720.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07/1316.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07/2675.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07/2908.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07/2941.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07/5622.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08/1011.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08/10250.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08/1193.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08/1712.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08/2292.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08/2775.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08/2839.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08/2869.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08/6064.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09/1002.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09/1085.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09/1929.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09/1978.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09/2581.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09/3009.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09/3053.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09/4153.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09/4948.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09/9020.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10/1002.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10/1085.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10/1929.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10/2581.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10/2798.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10/3009.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10/3053.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10/4153.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10/4948.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10/9020.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11/10870.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11/10872.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11/11729.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11/2447.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coding_java/BOJ14003.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding_java/BOJ14003.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOJ11052.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ11052.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +284,7 @@
       <workItem from="1605617961516" duration="2745000" />
       <workItem from="1605689548992" duration="1045000" />
       <workItem from="1605693752380" duration="4177000" />
-      <workItem from="1605698096943" duration="305000" />
+      <workItem from="1605698096943" duration="710000" />
     </task>
     <servers />
   </component>
@@ -290,11 +377,11 @@
       <screen x="63" y="0" width="1217" height="720" />
     </state>
     <state x="502" y="90" key="RollbackChangesDialog/63.0.1217.720@63.0.1217.720" timestamp="1603708066154" />
-    <state x="303" y="94" key="SettingsEditor" timestamp="1605693979789">
+    <state x="303" y="94" key="SettingsEditor" timestamp="1605698812191">
       <screen x="63" y="0" width="1473" height="864" />
     </state>
     <state x="237" y="0" key="SettingsEditor/63.0.1217.720@63.0.1217.720" timestamp="1603619038581" />
-    <state x="303" y="94" key="SettingsEditor/63.0.1473.864@63.0.1473.864" timestamp="1605693979789" />
+    <state x="303" y="94" key="SettingsEditor/63.0.1473.864@63.0.1473.864" timestamp="1605698812191" />
     <state x="238" y="0" key="SettingsEditor/64.0.1216.720@64.0.1216.720" timestamp="1600509131228" />
     <state x="746" y="360" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605020503863">
       <screen x="63" y="0" width="1473" height="864" />
