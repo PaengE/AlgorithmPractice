@@ -1,2 +1,0 @@
-# BaekJoon
-BaekJoon Algorithm
