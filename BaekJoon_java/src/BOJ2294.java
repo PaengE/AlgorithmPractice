@@ -2,6 +2,12 @@ import java.io.*;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
+/**
+ *  No.2294: 동전 2
+ *  URL: https://www.acmicpc.net/problem/2294
+ *  Hint: DP
+ */
+
 public class BOJ2294 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
