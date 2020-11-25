@@ -28,7 +28,7 @@ public class BOJ1309 {
         }
 
         int sum = dp[n - 1][0] + dp[n - 1][1] + dp[n - 1][2];
-        bw.write(String.valueOf(sum));
+        bw.write(String.valueOf(sum % 9901));
         bw.flush();
         br.close();
         bw.close();
