@@ -44,6 +44,7 @@ public class BOJ1005 {
             Queue<Integer> q = new LinkedList<>();
             int[] dp = new int[n + 1];
 
+            // inDegree 가 0인 것들을 enqueue
             for (int j = 1; j <= n; j++) {
                 dp[j] = d[j];
 
@@ -52,6 +53,7 @@ public class BOJ1005 {
                 }
             }
 
+            // 위상정렬
             while (!q.isEmpty()) {
                 int node = q.poll();
 
