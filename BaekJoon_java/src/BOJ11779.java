@@ -44,6 +44,7 @@ public class BOJ11779 {
         StringBuilder sb = new StringBuilder();
         sb.append(dist[e] + "\n");
 
+        // 경로 역추적
         Stack<Integer> stk = new Stack<>();
         stk.push(e);
         while (preCity[e] != 0) {
@@ -62,6 +63,7 @@ public class BOJ11779 {
         br.close();
     }
 
+    // 다익스트라 알고리즘
     static void dijkstra(int start) {
         Queue<Node> q = new LinkedList<>();
         dist = new int[n + 1];
@@ -75,8 +77,10 @@ public class BOJ11779 {
             int cur = curNode.to;
 
             for (Node next : graph[cur]) {
+                // 최단거리 cost 를 업데이트
                 if (dist[next.to] > dist[cur] + next.cost) {
                     dist[next.to] = dist[cur] + next.cost;
+                    // 이전 마을을 기록
                     preCity[next.to] = cur;
                     q.offer(new Node(next.to, dist[next.to]));
                 }
