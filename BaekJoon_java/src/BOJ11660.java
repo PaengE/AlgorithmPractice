@@ -1,6 +1,11 @@
 import java.io.*;
 import java.util.StringTokenizer;
 
+/**
+ *  No.11660: 구간 합 구하기 5
+ *  Hint: DP
+ */
+
 public class BOJ11660 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
