@@ -38,10 +38,12 @@ public class BOJ1260 {
         int current = v;
         boolean[] visit = new boolean[n + 1];
 
+        // 시작점
         stk.push(0);
         stk.push(current);
 
         while (stk.peek() != 0) {
+            // 연결된 노드 중 가장 작은 번호의 노드를 탐색
             int next = Integer.MAX_VALUE;
             for (int i = 0; i < m; i++) {
                 if (current == arr[i][0]) {
@@ -54,14 +56,18 @@ public class BOJ1260 {
                     }
                 }
             }
+            // 방문하지 않았다면, 방문 후 표시
             if (!visit[current]) {
                 bw.write(current + " ");
                 visit[current] = true;
             }
+            // next 가 갱신이 안되었으므로 더 이상 연결된 노드가 없는 것.
             if (next == Integer.MAX_VALUE) {
                 stk.pop();
                 current = stk.peek();
-            } else {
+            }
+            // 연결된 노드가 더있으면 stack 에 push
+            else {
                 stk.push(next);
                 current = next;
             }
@@ -77,9 +83,11 @@ public class BOJ1260 {
         boolean[] visit = new boolean[n + 1];
         PriorityQueue<Integer> pq = new PriorityQueue<>();
 
+        // 시작점
         q.offer(current);
 
         while (!end) {
+            // 연결된 노드를 모두 우선순위 큐에 삽입(작은 번호 노드 우선)
             for (int i = 0; i < m; i++) {
                 if (current == arr[i][0]) {
                     if (!visit[arr[i][1]]) {
@@ -91,13 +99,17 @@ public class BOJ1260 {
                     }
                 }
             }
+            // 방문하지 않았다면, 방문 후 표시
             if (!visit[current]) {
                 bw.write(current + " ");
                 visit[current] = true;
             }
+            // 현재 노드에 연결된 모든 노드를 큐에 삽입
             while (!pq.isEmpty()) {
                 q.offer(pq.poll());
             }
+
+            // 더이상 진행 할 수 없으면 end
             if (q.isEmpty()) {
                 end = true;
             } else {

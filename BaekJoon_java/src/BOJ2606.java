@@ -22,6 +22,7 @@ public class BOJ2606 {
         boolean[] visited = new boolean[n + 1];
 
         StringTokenizer st;
+        // 인접리스트 구성
         for (int i = 0; i < m; i++) {
             st = new StringTokenizer(br.readLine());
             int v1 = Integer.parseInt(st.nextToken());
@@ -29,6 +30,8 @@ public class BOJ2606 {
             adjList[v1].add(v2);
             adjList[v2].add(v1);
         }
+        // 모든 각각의 노드에 대해 연결된 노드들의 번호를 정렬하는 코드이다
+        // (이 문제에서는 실행하지 않아도 된다.)
         for (int i = 1; i <= n; i++) {
             Collections.sort(adjList[i]);
         }
@@ -42,8 +45,11 @@ public class BOJ2606 {
     }
 
     static void dfs(LinkedList<Integer>[] adjList, boolean[] visited, int v) {
+        // 방문했음을 표시하고
         visited[v] = true;
 
+        // 현재 노드 v 에 연결된 모든 노드들에 대하여 방문되지 않았다면 재귀를 수행한다.
+        // listIterator()를 사용하지 않고 for (int next : adjList[v]) { ... } 을 사용해도 된다.
         Iterator<Integer> iter = adjList[v].listIterator();
         while (iter.hasNext()) {
             int nextVisit = iter.next();
