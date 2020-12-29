@@ -1,6 +1,13 @@
 import java.io.*;
 import java.util.StringTokenizer;
 
+/**
+ *  No.1517: 버블 소트
+ *  Hint: 버블 소트로 풀면 못품..
+ *        버블소트와 머지소트의 스왑횟수 규칙을 찾아서 적용
+ *        ex) 머지소트에선 한번 할걸 버블소트에선 두 위치의 차이 만큼 함
+ */
+
 public class BOJ1517 {
     static int[] arr, res;
     static long count = 0;
