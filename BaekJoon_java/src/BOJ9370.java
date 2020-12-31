@@ -48,7 +48,7 @@ public class BOJ9370 {
                 dest[j] = Integer.parseInt(br.readLine());
             }
 
-            // s-x 최단경로보다 작은 s-g-h-x 혹은 s-h-g-x 최단경로 찾기
+            // s-x 최단경로와 같은 s-g-h-x 혹은 s-h-g-x 최단경로 찾기
             PriorityQueue<Integer> qi = new PriorityQueue<>();
             for (int x : dest) {
                 long res1 = dijkstra9370(s, h) + dijkstra9370(h, g) + dijkstra9370(g, x);
