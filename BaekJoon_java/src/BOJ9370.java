@@ -55,7 +55,7 @@ public class BOJ9370 {
                 long res2 = dijkstra9370(s, g) + dijkstra9370(g, h) + dijkstra9370(h, x);
                 long res3 = dijkstra9370(s, x);
 
-                if (Math.min(res1, res2) <= res3) {
+                if (Math.min(res1, res2) == res3) {
                     qi.offer(x);
                 }
             }
