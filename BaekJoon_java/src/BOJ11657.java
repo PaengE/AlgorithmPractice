@@ -66,8 +66,8 @@ public class BOJ11657 {
         dist[1] = 0;
         boolean update = false;
 
-        // 노드개수 - 1번 동안 update 를 진행
-        for (int i = 1; i < n; i++) {
+        // 노드개수만큼 update 를 진행
+        for (int i = 1; i <= n; i++) {
             update = false;
             for (int j = 1; j <= n; j++) {
                 for (Node11657 node : list[j]) {
