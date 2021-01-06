@@ -4,6 +4,12 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+/**
+ *  no.1707: 이분 그래프
+ *  url: https://www.acmicpc.net/problem/1707
+ *  hint: BFS
+ */
+
 public class BOJ1707 {
     static int[] numbering;
     static ArrayList<ArrayList<Integer>> graph;
