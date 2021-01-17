@@ -33,12 +33,13 @@ public class FilenameSort {
 
     static int getNum(String s, String h) {
         s = s.replace(h, "");
-        String result ="";
-        for( char c : s.toCharArray()) {
-            if( Character.isDigit(c) && result.length() < 5 ) {
-                result+=c;
-            }else
+        String result = "";
+        for(char c : s.toCharArray()) {
+            if (Character.isDigit(c) && result.length() < 5) {
+                result += c;
+            } else {
                 break;
+            }
         }
         return Integer.valueOf(result);
     }
