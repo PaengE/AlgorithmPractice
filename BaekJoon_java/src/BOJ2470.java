@@ -2,6 +2,11 @@ import java.io.*;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
+/**
+ *  No.2470: 두 용액
+ *  hint: 투 포인터 연습문제
+ */
+
 public class BOJ2470 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

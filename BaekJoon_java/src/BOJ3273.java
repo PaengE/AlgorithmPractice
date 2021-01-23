@@ -2,6 +2,11 @@ import java.io.*;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
+/**
+ *  No.3273: 두 수의 합
+ *  hint: 풀이방법은 여러가지이나 투 포인터 연습문제
+ */
+
 public class BOJ3273 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
