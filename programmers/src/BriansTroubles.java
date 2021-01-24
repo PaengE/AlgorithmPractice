@@ -12,7 +12,7 @@ public class BriansTroubles {
         int idx = 0;
         int lastIdx = 0;
         StringBuilder ans = new StringBuilder();
-        System.out.println("sentence = " + sentence);
+//        System.out.println("sentence = " + sentence);
 
         if (sentence.indexOf(" ") != -1) {
             return "invalid";
@@ -188,6 +188,7 @@ public class BriansTroubles {
 
     @Test
     public void test() {
+        Assertions.assertEquals("A BBBB CC D D D", solution("aAaBbBbBbBcCCcDdDdD"));
         Assertions.assertEquals("HELLO", solution("aHELLOa"));
         Assertions.assertEquals("A A A A AA", solution("AAAAxAbAx"));
         Assertions.assertEquals("HELLO", solution("aHbEbLbLbOa"));
