@@ -31,14 +31,14 @@ public class BOJ2042 {
             st = new StringTokenizer(br.readLine());
             int a = Integer.parseInt(st.nextToken());
             int b = Integer.parseInt(st.nextToken());
-            int c = Integer.parseInt(st.nextToken());
+            long c = Long.parseLong(st.nextToken());
 
             if (a == 1) {
                 long diff = c - arr[b];
                 arr[b] = c;
                 update(1, n, 1,  b, diff);
             } else if (a == 2) {
-                bw.write(String.valueOf(sum(1, n, 1, b, c)));
+                bw.write(String.valueOf(sum(1, n, 1, b, (int) c)));
                 bw.newLine();
             }
         }
