@@ -21,11 +21,6 @@ public class TheLongestNode {
 
         int[] res = bfs(1, n, graph);;
         Arrays.sort(res);
-        for (int i = 0; i < res.length; i++) {
-            System.out.print(res[i] + " ");
-        }
-        System.out.println();
-        System.out.println("res.length = " + res.length);
 
         // count 중 가장 큰 값이 몇개인지를 반환
         return res[n] == 0 ? n - 1: (int) Arrays.stream(res).filter(i -> i == res[n]).count();
