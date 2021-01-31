@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 public class WayToSchool {
     static final int MOD = 1000000007;
     public int solution(int m, int n, int[][] puddles) {
-        int[][] dp = new int[n + 1][m + 1];
+        int[][] dp = new int[m + 1][n + 1];
         for (int[] t : puddles) {
             dp[t[0]][t[1]] = -1;
         }
@@ -19,7 +19,7 @@ public class WayToSchool {
                 }
             }
         }
-        return dp[n][m];
+        return dp[m][n];
     }
 
     @Test

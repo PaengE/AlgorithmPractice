@@ -12,11 +12,11 @@ public class IntegerTriangle {
         for (int i = 1; i < size; i++) {
             for (int j = 0; j < triangle[i].length; j++) {
                 if (j == 0) {
-                    dp[i][j] += dp[i - 1][j] + triangle[i][j];
+                    dp[i][j] = dp[i - 1][j] + triangle[i][j];
                 } else if (i == j) {
-                    dp[i][j] += dp[i - 1][j - 1] + triangle[i][j];
+                    dp[i][j] = dp[i - 1][j - 1] + triangle[i][j];
                 } else {
-                    dp[i][j] += Math.max(dp[i - 1][j], dp[i - 1][j - 1]) + triangle[i][j];
+                    dp[i][j] = Math.max(dp[i - 1][j], dp[i - 1][j - 1]) + triangle[i][j];
                 }
             }
         }
