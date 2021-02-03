@@ -12,16 +12,18 @@ public class PedestrianParadise {
         int[][][] dp = new int[m][n][2];    // 0: 세로방향, 1: 가로방향
 
         // 첫번째 열 초기화
-        for (int i = 0; i < m; i++) {
-            if (city_map[i][0] != 1) {
-                dp[i][0][0] = 1;
+        for (int i = 1; i < m; i++) {
+            if (city_map[i][0] == 1) {
+                break;
             }
+            dp[i][0][0] = 1;
         }
-        // 촛번째 행 초기화
-        for (int i = 0; i < n; i++) {
-            if (city_map[0][i] != 1) {
-                dp[0][i][1] = 1;
+        // 첫번째 행 초기화
+        for (int i = 1; i < n; i++) {
+            if (city_map[0][i] == 1) {
+                break;
             }
+            dp[0][i][1] = 1;
         }
 
 
@@ -33,7 +35,7 @@ public class PedestrianParadise {
 
                 // 세로방향 도로 검사
                 if (city_map[i - 1][j] == 0) {
-                    dp[i][j][0] = (dp[i - 1][j][0] + dp[i - 1][j][1]) % MOD;
+                    dp[i][j][0] = (dp[i][j][0] + dp[i - 1][j][0] + dp[i - 1][j][1]) % MOD;
                 } else if (city_map[i - 1][j] == 1) {
                     // nothing to do
                 } else {
