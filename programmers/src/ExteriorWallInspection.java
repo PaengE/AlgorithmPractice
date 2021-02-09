@@ -71,7 +71,6 @@ public class ExteriorWallInspection {
 
                 // 주어진 사람으로 전체 weak point를 커버할 수 있다면
                 // 더이상 검사를 진행할 필요가 없다.(작은 크기의 순열부터 만들었으므로 문제에서 요구한 최솟값은 이미 구해짐)
-                //
                 if (flag) {
                     answer = idx + 1;
                     finish = true;
