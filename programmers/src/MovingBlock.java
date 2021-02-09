@@ -92,10 +92,7 @@ public class MovingBlock {
                     rotate((Queue<Robot>) q, r, cur, i, nx1, ny1, nx2, ny2);
                 }
             }
-            System.out.println();
         }
-
-
     }
 
     // 회전 이동 메소드

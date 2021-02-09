@@ -66,7 +66,6 @@ public class ExteriorWallInspection {
                             break;
                         }
                     }
-
                 }
 
                 // 주어진 사람으로 전체 weak point를 커버할 수 있다면
