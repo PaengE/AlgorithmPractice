@@ -32,6 +32,7 @@ public class BOJ1261 {
 
     }
 
+    // Deque + BFS
     static void bfs(int sx, int sy) {
         int[] dx = {-1, 1, 0, 0};
         int[] dy = {0, 0, -1, 1};
@@ -66,6 +67,44 @@ public class BOJ1261 {
             }
         }
     }
+
+    /**
+     * PriorityQueue + BFS
+     */
+//    static void bfs(int sx, int sy) {
+//        int[] dx = {-1, 1, 0, 0};
+//        int[] dy = {0, 0, -1, 1};
+//
+//        PriorityQueue<P> pq = new PriorityQueue<>((o1, o2) -> Integer.compare(o1.flag, o2.flag));
+//        boolean[][] visited = new boolean[m][n];
+//        pq.offer(new P(sx, sy, 0));
+//        visited[sx][sy] = true;
+//
+//        while (!pq.isEmpty()) {
+//            P cur = pq.poll();
+//            if (cur.x == m - 1 && cur.y == n - 1) {
+//                return;
+//            }
+//
+//            for (int i = 0; i < 4; i++) {
+//                int nx = cur.x + dx[i];
+//                int ny = cur.y + dy[i];
+//
+//                if (nx >= 0 && nx < m && ny >= 0 && ny < n) {
+//                    if (!visited[nx][ny]) {
+//                        if (map[nx][ny] == 0) {
+//                            dp[nx][ny] = dp[cur.x][cur.y];
+//                        } else {
+//                            dp[nx][ny] = dp[cur.x][cur.y] + 1;
+//                        }
+//                        pq.offer(new P(nx, ny, dp[nx][ny]));
+//                        visited[nx][ny] = true;
+//
+//                    }
+//                }
+//            }
+//        }
+//    }
 
     static class P {
         int x, y, flag;
