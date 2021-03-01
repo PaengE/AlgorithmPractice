@@ -6,3 +6,6 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+../src/A.java
+../out/production/BaekJoon_java/A.class
