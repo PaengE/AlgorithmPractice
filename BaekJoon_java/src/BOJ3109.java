@@ -1,6 +1,11 @@
 import java.io.*;
 import java.util.StringTokenizer;
 
+/**
+ *  No.3109: 빵집
+ *  URL: https://www.acmicpc.net/problem/3109
+ *  Hint: DFS + 시간 절약
+ */
 public class BOJ3109 {
     static int r, c, ans;
     static int[] dx = {-1, 0, 1};
