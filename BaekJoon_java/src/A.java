@@ -14,7 +14,6 @@ public class A {
         map.computeIfPresent("감", (key, value) -> value + 2000);
         System.out.println("map = " + map);
 
-
         System.out.println();
         System.out.println("map.put(\"사과\", 10) = " + map.put("사과", 10));
         System.out.println("map = " + map + "\n");
