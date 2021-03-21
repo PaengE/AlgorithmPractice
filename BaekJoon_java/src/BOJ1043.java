@@ -3,6 +3,12 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
+/**
+ *  No.1043: 거짓말
+ *  URL: https://www.acmicpc.net/problem/1043
+ *  Hint: Union-find를 사용한 문제
+ */
+
 public class BOJ1043 {
     static ArrayList<ArrayList<Integer>> list = new ArrayList<>();
     static int[] p;
