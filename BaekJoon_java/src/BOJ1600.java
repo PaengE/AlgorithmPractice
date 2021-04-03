@@ -4,7 +4,7 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 /**
- *  No.1600:
+ *  No.1600: 말이 되고픈 원숭이
  *  URL: https://www.acmicpc.net/problem/1600
  *  Hint: BFS + 큐의 데이터 타입은 int[]가 아닌 별도의 클래스로 해야 메모리초과가 안남.
  */
