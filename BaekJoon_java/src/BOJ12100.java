@@ -61,17 +61,6 @@ public class BOJ12100 {
         }
     }
 
-    static void print() {
-        for (int i = 0; i <n ; i++) {
-            for (int j = 0; j < n; j++) {
-                System.out.print(copy[i][j] + " ");
-            }
-            System.out.println();
-
-        }
-        System.out.println();
-    }
-
     static void moveLeft() {
         // 각 행
         for (int row = 0; row < n; row++) {
