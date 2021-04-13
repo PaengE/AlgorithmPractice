@@ -4,14 +4,14 @@ import java.util.*;
 /**
  *  No.2568: 전깃줄 - 2
  *  URL: https://www.acmicpc.net/problem/2568
- *  Hint: LCS + BinarySearch + Tracing
+ *  Hint: LIS + BinarySearch + Tracing
  */
 
 public class BOJ2568 {
     static int m;
     static int[][] pole;
-    static int[] preIndex;  // i번째 전깃줄이 LCS의 몇번째 요소인지를 저장
-    static ArrayList<Integer> list; // list.size() - 1 크기가 LCS의 최대크기 (list의 요소가 항상 LCS는 아님)
+    static int[] preIndex;  // i번째 전깃줄이 LIS의 몇번째 요소인지를 저장
+    static ArrayList<Integer> list; // list.size() - 1 크기가 LIS의 최대크기 (list의 요소가 항상 LIS는 아님)
     static StringBuilder sb = new StringBuilder();
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -41,10 +41,10 @@ public class BOJ2568 {
 
     static int binarySearch() {
         for (int i = 0; i < m; i++) {
-            if (list.get(list.size() - 1) < pole[i][1]) {   // LCS 의 마지막 요소보다 크면 LCS의 마지막 요소를 갱신
+            if (list.get(list.size() - 1) < pole[i][1]) {   // LIS 의 마지막 요소보다 크면 LIS의 마지막 요소를 갱신
                 list.add(pole[i][1]);
                 preIndex[i] = list.size() - 1;
-            } else {    // 아니라면 이분탐색을 통하여 현재값이 LCS의 몇번째 요소인지를 탐색
+            } else {    // 아니라면 이분탐색을 통하여 현재값이 LIS의 몇번째 요소인지를 탐색
                 int left = 1;
                 int right = list.size() - 1;
 
@@ -59,7 +59,7 @@ public class BOJ2568 {
                 }
 
                 // list의 위치 중 자신보다 처음 큰 값이 나오는 곳에 저장
-                // list의 요소들의 값을 작게 유지해야 LCS의 크기를 늘릴 수 있기 때문
+                // list의 요소들의 값을 작게 유지해야 LIS의 크기를 늘릴 수 있기 때문
                 list.set(right, pole[i][1]);
                 preIndex[i] = right;
             }
@@ -71,8 +71,8 @@ public class BOJ2568 {
     static void willBeRemovedPole() {
         int idx = list.size() - 1;
         Stack<Integer> stk = new Stack<>();
-        // list.size() - 1이 LCS의 최대크기이므로, 전깃줄이 최대 크기 LCS의 요소인지를 판단하고,
-        // 최대 크기 LCS의 요소가 아니라면 제거해야한다.
+        // list.size() - 1이 LIS의 최대크기이므로, 전깃줄이 최대 크기 LIS의 요소인지를 판단하고,
+        // 최대 크기 LIS의 요소가 아니라면 제거해야한다.
         for (int i = m - 1; i >= 0; i--) {
             if (preIndex[i] == idx) {
                 idx--;
