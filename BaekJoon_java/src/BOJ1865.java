@@ -70,7 +70,7 @@ public class BOJ1865 {
         for (int i = 1; i <= nodeCount; i++) {
             update = false;
 
-            // 최단거리 초기화화
+            // 모든 간선 검사
             for (int j = 1; j <= nodeCount; j++) {
                 for (Edge cur : graph.get(j)) {
                     if (dist[j] != INF && dist[cur.e] > dist[j] + cur.t) {

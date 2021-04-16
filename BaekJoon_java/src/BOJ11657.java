@@ -39,9 +39,7 @@ public class BOJ11657 {
         }
 
         StringBuilder sb = new StringBuilder();
-        if (n == 2) {
 
-        }
         if (bellmanFord()) {
             sb.append("-1\n");
         } else {
