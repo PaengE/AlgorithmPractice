@@ -1,53 +1,34 @@
-import java.util.HashMap;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class A {
     public static void main(String[] args) {
-        int arr = 0;
-        int[] arr1 = new int[5];
-//        int[] arr2 = arr1.clone();
-        int[][] arr2 = new int[2][5];
+//        String str = "abc=123&abc[]=234&abc=345&qwe=000&abc[]=135";
+//        String[] s = new String[2];
+//
+//        String regex = "[a-z]+(\\[\\])*=[0-9]*";
+//        Pattern p = Pattern.compile(regex);
+//
+//        Matcher m = p.matcher(str);
+//
+//
+//        while (m.find()) {
+////            if (m.find()) {
+//                System.out.println("start = " + m.start() + " end = " + m.end());
+//                System.out.println(m.group());
 
-        System.out.println("arr = " + arr);
-        System.out.println("arr1 = " );
-        for (int i = 0; i < arr1.length; i++) {
-            System.out.print(arr1[i] + " ");
+//            } else {
+//                System.out.println("못찾았다");
+//            }
+
+//        }
+
+
+        String str = "qwerty";
+        for (int i = 0; i < 5; i++) {
+            str = str + "05";
         }
-        System.out.println();
-        System.out.println("arr2 = ");
-        for (int i = 0; i < arr2.length; i++) {
-            for (int j = 0; j < arr2[0].length; j++) {
-                System.out.print(arr2[i][j] + " ");
-            }
-            System.out.println();
-        }
-
-        tmp(arr, arr1, arr2);
-        int[] a = new int[2];
-
-        int[] b = a.clone();
-
-        System.out.println();
-        System.out.println("arr = " + arr);
-        System.out.println("arr1 = " );
-        for (int i = 0; i < arr1.length; i++) {
-            System.out.print(arr1[i] + " ");
-        }
-        System.out.println();
-        System.out.println("arr2 = ");
-        for (int i = 0; i < arr2.length; i++) {
-            for (int j = 0; j < arr2[0].length; j++) {
-                System.out.print(arr2[i][j] + " ");
-            }
-            System.out.println();
-        }
-
-
-
+        System.out.println(str);
     }
 
-    static void tmp(int a1, int[] a2, int[][] a3) {
-        a1 = 2;
-        a2[1] = 2;
-        a3[1][1] = 2;
-    }
 }
