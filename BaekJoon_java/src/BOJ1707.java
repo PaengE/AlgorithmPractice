@@ -1,4 +1,4 @@
-import java.io.*;
+﻿import java.io.*;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
@@ -62,7 +62,6 @@ public class BOJ1707 {
 
     static boolean bfs(int start, int e) {
         Queue<Integer> q = new LinkedList<>();
-
         q.offer(start);
         numbering[start] = 1;
 
