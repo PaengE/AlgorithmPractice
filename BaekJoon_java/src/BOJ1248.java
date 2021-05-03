@@ -1,6 +1,12 @@
 import java.io.*;
 import java.util.ArrayList;
 
+/**
+ *  No.1248: 맞춰봐
+ *  URL: https://www.acmicpc.net/problem/1248
+ *  Hint: BruteForce(Backtracking) + TL 처리
+ */
+
 public class BOJ1248 {
     static int n;
     static boolean findAnswer;
@@ -14,8 +20,8 @@ public class BOJ1248 {
         String str = br.readLine();
         init(str);
 
-        permutation(0);
-
+        // Backtracking
+        backtracking(0);
 
         for (int i = 0; i < n; i++) {
             bw.write(ans[i] + " ");
@@ -24,12 +30,11 @@ public class BOJ1248 {
         br.close();
     }
 
-    static void permutation(int depth) {
+    static void backtracking(int depth) {
         if (depth == n) {
             findAnswer = true;
             return;
         }
-
 
         for (int i = 0; i < 21; i++) {
             if (findAnswer) {   // 정답인 걸 하나 찾으면 종료
@@ -37,12 +42,14 @@ public class BOJ1248 {
             }
 
             ans[depth] = list.get(i);
+            // 검사를 이 단계에서 해야만 TL을 피할 수 있다.
             if (isCorrect(depth)) {
-                permutation(depth + 1);
+                backtracking(depth + 1);
             }
         }
     }
 
+    // 만든 수열이 유효한 지 주어진 문자열과 비교
     static boolean isCorrect(int idx){
         for (int i = 0; i <= idx; i++) {
             int sum = 0;
@@ -57,6 +64,7 @@ public class BOJ1248 {
         return true;
     }
 
+    // 메모리 초기화
     static void init(String str) {
         s = new char[n][n];
         ans = new int[n];
