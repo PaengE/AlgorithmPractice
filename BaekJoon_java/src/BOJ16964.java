@@ -78,10 +78,8 @@ public class BOJ16964 {
             if (set.remove(arr.get(idx))) {
                 dfs(arr.get(idx++));
             } else {
-                if (!set.isEmpty()) {
-                    correct = false;
-                    return;
-                }
+                correct = false;
+                return;
             }
         }
     }
