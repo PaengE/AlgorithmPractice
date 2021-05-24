@@ -1,6 +1,11 @@
 import java.io.*;
 import java.util.StringTokenizer;
 
+/**
+ *  No.2873: 롤러코스터
+ *  Hint: Greedy
+ */
+
 public class BOJ2873 {
     static int r, c, minR, minC;
     static int[][] arr;
