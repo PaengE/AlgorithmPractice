@@ -165,10 +165,10 @@ public class BOJ9944 {
     static class Point{
         int x, y, fillCount;
 
-        Point(int x, int y, int fiilCount) {
+        Point(int x, int y, int fillCount) {
             this.x = x;
             this.y = y;
-            this.fillCount = fiilCount;
+            this.fillCount = fillCount;
         }
     }
 }
