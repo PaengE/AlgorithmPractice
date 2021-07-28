@@ -13,6 +13,9 @@ public class BOJ1932 {
     static int[] res;
 
     public static void dp(int n){
+        if (n == 1) {
+            res[0] = arr[0][0];
+        }
         sumArr[0][0] = arr[0][0];
         for(int i = 1; i < n; i++){
             for(int j = 0; j <= i; j++){
