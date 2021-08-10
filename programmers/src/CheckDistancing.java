@@ -28,11 +28,8 @@ public class CheckDistancing {
 					}
 				}
 			}
-			if (flag) {
-				ans[i] = 0;
-			} else {
-				ans[i] = 1;
-			}
+
+			ans[i] = flag ? 0 : 1;
 		}
 		return ans;
 	}
