@@ -14,7 +14,7 @@ public class BOJ12738 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         ArrayList<Integer> list = new ArrayList<>();
-        list.add(0);
+        list.add(Integer.MIN_VALUE);
 
         int n = Integer.parseInt(br.readLine());
         int val = 0;
